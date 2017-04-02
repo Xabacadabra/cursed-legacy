@@ -18,7 +18,7 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>1914</td>
-				<td>Nasce Otto</td>
+				<td>Scoppia la Prima Guerra Mondiale, Nasce Otto</td>
 			</tr>
 			<tr>
 				<td>1920</td>
@@ -62,7 +62,7 @@ nav-menu: true
 			</tr>			
 			<tr>
 				<td>1955</td>
-				<td>Caso Rosa Parks: il padre di Maya si reca in Alabama per seguirlo in prima persona</td>
+				<td>Caso Rosa Parks: Edgar Anderson, il padre di Maya, si reca in Alabama per seguirlo in prima persona</td>
 			</tr>																			
 		</tbody>
 	</table>
@@ -76,7 +76,7 @@ nav-menu: true
 	</dd>
 	<dt>30 Gennaio</dt>
 	<dd>
-		<p>Bomba nella casa di Martin Luther King</p>
+		<p>Viene scagliata una bomba nella casa di Martin Luther King: Edgar, il padre di Maya, si offre di ospitare il famoso attivista nella sua residenza di Montgomery, in Alabama</p>
 	</dd>
 	<dt>2 Febbraio</dt>
 	<dd>
@@ -92,12 +92,12 @@ nav-menu: true
 	</dd>
 	<dt>1 Maggio</dt>
 	<dd>
-		<p>Maya sembra aver perso il lavoro d'infermiera all'ospedale St. Mary a causa dell'influente imprenditore razzista Mark Bolin: non pago di ciò, quest'ultimo assedia casa sua assieme ad alcuni membri della "Chiesa cristiana di Gesù Cristo". Durante lo scontro, la ragazza viene colpita da un proiettile ed è abbracciata da Zeno in punto di morte.</p>
+		<p>Maya sembra aver perso il lavoro d'infermiera all'ospedale St. Mary a causa dell'influente imprenditore razzista Mark Bolin: non pago, quest'ultimo assedia la casa della ragazza assieme ad alcuni membri della "Chiesa cristiana di Gesù Cristo". Durante lo scontro, la ragazza viene colpita da un proiettile ed è abbracciata da Zeno in punto di morte.</p>
 
 		<p>In seguito a varie peripezie, soprattutto grazie alle manovre di Zeno (e l'annoiato conformismo di Jacques) Alice, Maya, Otto, Paul e Robert vengono finalmente presentati al Principe Vannevar, incontrando così anche il siniscalco Nikolai, lo sceriffo Railsback e , sopratutto per Otto, Glory: una Malkavian a cui il polacco deve la vita, essendo Nikolai pronto a condannarlo alla Morte Ultima dietro ordine del Principe.
 		</p>
 
-		<p>Nikolai stesso offrirà al gruppo di neonati una missione per conto di Vannevar, specificando che eseguirla non è un obbligo ma sul loro futuro status nella Camarilla.
+		<p>Nikolai stesso offre al gruppo di neonati una missione per conto di Vannevar, specificando che eseguirla non è un obbligo ma incidera parecchio sul loro futuro status nella Camarilla.
 		</p>
 	</dd>									
 </dl>
