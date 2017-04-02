@@ -2,8 +2,14 @@
 layout: post
 title: PNG Mortali
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: null
 nav-menu: true
 ---
 
-game in progress
+<span class="image fit"><img src="assets/images/camarilla.jpg" alt="" /></span>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="assets/images/peter.jpg" alt="" /></span><h3>Peter DeRosa</h3></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/peter.jpg" alt="" /></span><h3>Elizabeth Cooper</h3></div>
+	</div>
+</div>
