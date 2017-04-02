@@ -2,7 +2,7 @@
 layout: post
 title: Mappa
 description: Luoghi di San Francisco
-image: assets/images/pic11.jpg
+image: null
 nav-menu: true
 ---
 
