@@ -57,6 +57,10 @@ nav-menu: true
 				<td>Robert è testimone dell'Incidente di Roswell e decide di lasciare l'esercito</td>
 			</tr>
 			<tr>
+				<td>1952</td>
+				<td>Proclamazione della Repubblica Popolare di Polonia. Otto fugge negli USA</td>
+			</tr>			
+			<tr>
 				<td>1955</td>
 				<td>Il caso Rosa Parks</td>
 			</tr>																			
@@ -68,7 +72,7 @@ nav-menu: true
 <dl>
 	<dt>3 Gennaio</dt>
 	<dd>
-		<p>Abbraccio di Paul</p>
+		<p>Paul è alla ricerca del fratello Peter, quando viene abbracciato da Zeno. Per volere di quest'ultimo, uccide suo nonno Paolo Barbieri durante la fase di trasformazione. Accetta di seguire Zeno pur  di rintracciare suo fratello</p>
 	</dd>
 	<dt>30 Gennaio</dt>
 	<dd>
@@ -76,18 +80,18 @@ nav-menu: true
 	</dd>
 	<dt>2 Febbraio</dt>
 	<dd>
-		<p>Abbraccio di Robert</p>
+		<p>Robert indaga nel Marshall Space Flight Center di Huntsville, in Alabama, dove viene provocato e abbracciato dalla misteriosa Naira, che lo lascia al suo destino. Zeno lo soccorre, e da quel momento inizia a viaggiare assieme a lui e Paul.</p>
 	</dd>
 	<dt>19 Aprile</dt>
 	<dd>
-		<p>Matrimonio di Grace Kelly, Abbraccio di Alice</p>
+		<p>Alice grazie a suo padre è tra gli invitati al sontuoso matrimonio di Grace Kelly. Durante la crociera attira l'attenzione del fotografo Jacques Chevalier, irritando una delle sue "fan" rischiando di rimetterci un occhio. Jacques l'abbraccia dopo averla fotografata a terra esangue, in un impeto di perverso sadismo estetico.</p>
 	</dd>
 	<dt>20 Aprile</dt>
 	<dd>
-		<p>Abbraccio di Otto</p>
+		<p>Otto incontra uno strano collega durante una giornata di lavoro alla Bechtel, e un ancor più strano prete. In seguito tenta un furto alla Villa dei Winchester assieme ai connazionali Dimitri WoŹniak e Ivan Kaczmarek. Tornato a casa, viene abbracciato dal prete sopracitato (Il Diacono) e costretto a cibarsi della piccola Martha. </p>
 	</dd>
 	<dt>1 Maggio</dt>
 	<dd>
-		<p>Abbraccio di Maya</p>
+		<p>Maya sembra aver perso il lavoro d'infermiera all'ospedale St. Mary a causa dell'influente imprenditore razzista Mark Bolin: non pago di ciò, quest'ultimo assedia casa sua assieme ad alcuni membri della "Chiesa cristiana di Gesù Cristo". Durante lo scontro, la ragazza viene colpita da un proiettile ed è abbracciata da Zeno in punto di morte.</p>
 	</dd>						
 </dl>
