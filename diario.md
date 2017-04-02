@@ -80,7 +80,7 @@ nav-menu: true
 	</dd>
 	<dt>2 Febbraio</dt>
 	<dd>
-		<p>Robert indaga nel _Marshall Space Flight Center_ di Huntsville, in Alabama, dove viene provocato e abbracciato dalla misteriosa Naira, che lo lascia al suo destino. Zeno lo soccorre, e da quel momento inizia a viaggiare assieme a lui e Paul.</p>
+		<p>Robert indaga nel <i>Marshall Space Flight Center</i> di Huntsville, in Alabama, dove viene provocato e abbracciato dalla misteriosa Naira, che lo lascia al suo destino. Zeno lo soccorre, e da quel momento inizia a viaggiare assieme a lui e Paul.</p>
 	</dd>
 	<dt>19 Aprile</dt>
 	<dd>
