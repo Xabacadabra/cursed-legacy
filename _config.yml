@@ -1,17 +1,17 @@
 # Site settings
 title: Cursed Legacy
-subtitle: Vampiri La Masquerade
+subtitle: "by Xab"
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: "Una cronaca di Vampiri: La Masquerade"
 baseurl: "/cursed-legacy" # the subpath of your site, e.g. /blog
 url: "http://xabacadabra.com" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 
+city: 
+state: 
+zip_code: 
+country: 
+phone: 
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
