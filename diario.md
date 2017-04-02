@@ -29,7 +29,7 @@ nav-menu: true
 				<td>Nasce Robert</td>
 			</tr>
 			<tr>
-				<td>1929</td>
+				<td>1928</td>
 				<td>Nasce Alice</td>
 			</tr>			
 			<tr>
@@ -43,13 +43,51 @@ nav-menu: true
 			<tr>
 				<td>1939</td>
 				<td>Scoppia la Seconda Guerra Mondiale</td>
-			</tr>			
+			</tr>
+			<tr>
+				<td>1941</td>
+				<td>Gli Stati Uniti entrano in guerra, Paul e Robert vengono arruolati nell'esercito</td>
+			</tr>
+			<tr>
+				<td>1944</td>
+				<td>Paul e Robert prendono parte allo Sbarco in Normandia</td>
+			</tr>
+			<tr>
+				<td>1947</td>
+				<td>Robert è testimone dell'Incidente di Roswell e decide di lasciare l'esercito</td>
+			</tr>
+			<tr>
+				<td>1955</td>
+				<td>Il caso Rosa Parks</td>
+			</tr>																			
 		</tbody>
 	</table>
 </div>
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<h4>1956</h4>
+<dl>
+	<dt>3 Gennaio</dt>
+	<dd>
+		<p>Abbraccio di Paul</p>
+	</dd>
+	<dt>30 Gennaio</dt>
+	<dd>
+		<p>Bomba nella casa di Martin Luther King</p>
+	</dd>
+	<dt>2 Febbraio</dt>
+	<dd>
+		<p>Abbraccio di Robert</p>
+	</dd>
+	<dt>19 Aprile</dt>
+	<dd>
+		<p>Matrimonio di Grace Kelly, Abbraccio di Alice</p>
+	</dd>
+	<dt>20 Aprile</dt>
+	<dd>
+		<p>Abbraccio di Otto</p>
+	</dd>
+	<dt>1 Maggio</dt>
+	<dd>
+		<p>Abbraccio di Maya</p>
+	</dd>						
+</dl>
