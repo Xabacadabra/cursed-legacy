@@ -62,7 +62,7 @@ nav-menu: true
 			</tr>			
 			<tr>
 				<td>1955</td>
-				<td>Il caso Rosa Parks</td>
+				<td>Caso Rosa Parks: il padre di Maya si reca in Alabama per seguirlo in prima persona</td>
 			</tr>																			
 		</tbody>
 	</table>
@@ -80,11 +80,11 @@ nav-menu: true
 	</dd>
 	<dt>2 Febbraio</dt>
 	<dd>
-		<p>Robert indaga nel Marshall Space Flight Center di Huntsville, in Alabama, dove viene provocato e abbracciato dalla misteriosa Naira, che lo lascia al suo destino. Zeno lo soccorre, e da quel momento inizia a viaggiare assieme a lui e Paul.</p>
+		<p>Robert indaga nel _Marshall Space Flight Center_ di Huntsville, in Alabama, dove viene provocato e abbracciato dalla misteriosa Naira, che lo lascia al suo destino. Zeno lo soccorre, e da quel momento inizia a viaggiare assieme a lui e Paul.</p>
 	</dd>
 	<dt>19 Aprile</dt>
 	<dd>
-		<p>Alice grazie a suo padre è tra gli invitati al sontuoso matrimonio di Grace Kelly. Durante la crociera attira l'attenzione del fotografo Jacques Chevalier, irritando una delle sue "fan" rischiando di rimetterci un occhio. Jacques l'abbraccia dopo averla fotografata a terra esangue, in un impeto di perverso sadismo estetico.</p>
+		<p>Alice è tra gli invitati del sontuoso matrimonio di Grace Kelly. Durante la crociera attira l'attenzione del fotografo Jacques Chevalier, irritando una delle sue "fan" rischiando di rimetterci un occhio. Jacques l'abbraccia dopo averla fotografata a terra esangue, in un impeto di perverso sadismo estetico.</p>
 	</dd>
 	<dt>20 Aprile</dt>
 	<dd>
