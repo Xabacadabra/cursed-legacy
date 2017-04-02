@@ -8,11 +8,11 @@ nav-menu: true
 <span class="image fit"><img src="assets/images/camarilla.jpg" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/vannevar.jpg" alt="" /></span>Vannevar Thomas - Il Principe</div>
-		<div class="4u"><span class="image fit"><img src="assets/images/nikolai.jpg" alt="" /></span>Nikolai - Lo Siniscalco</div>
+		<div class="4u"><span class="image fit"><img src="assets/images/vannevar.jpg" alt="" /></span><h3>Vannevar Thomas - Il Principe</h3></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/nikolai.jpg" alt="" /></span><h3>Nikolai - Il Siniscalco</h3></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/railsback.jpg" alt="" /></span><h3>Railsback - Lo Sceriffo</h3></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="assets/images/glory.jpg" alt="" /></span>Glory - La Sibilla</div>
+		<div class="4u"><span class="image fit"><img src="assets/images/glory.jpg" alt="" /></span><h3>Glory - La Sibilla</h3></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
 		<!-- Break -->
