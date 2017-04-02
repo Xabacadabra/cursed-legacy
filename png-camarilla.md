@@ -2,11 +2,9 @@
 layout: post
 title: PNG Camarilla
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: null
 nav-menu: true
 ---
-
-<h4>Fit</h4>
 <span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
