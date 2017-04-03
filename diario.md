@@ -68,11 +68,11 @@ nav-menu: true
 	</table>
 </div>
 
-<h4>1956</h4>
+<h2>1956</h2>
 <dl>
 	<dt>3 Gennaio</dt>
 	<dd>
-		<p>Paul è alla ricerca del fratello Peter, quando viene abbracciato da Zeno. Per volere di quest'ultimo, uccide suo nonno Paolo Barbieri durante la fase di trasformazione. Accetta di seguire Zeno pur  di rintracciare suo fratello</p>
+		<p>Paul è alla ricerca del fratello Peter, quando viene abbracciato da Zeno. Per volere di quest'ultimo, uccide suo nonno Paolo Barbieri durante la fase di trasformazione. Accetta di seguire Zeno pur di rintracciare suo fratello</p>
 	</dd>
 	<dt>30 Gennaio</dt>
 	<dd>
@@ -80,7 +80,7 @@ nav-menu: true
 	</dd>
 	<dt>2 Febbraio</dt>
 	<dd>
-		<p>Robert indaga nel <i>Marshall Space Flight Center</i> di Huntsville, in Alabama, dove viene provocato e abbracciato dalla misteriosa Naira, che lo lascia al suo destino. Zeno lo soccorre, e da quel momento inizia a viaggiare assieme a lui e Paul.</p>
+		<p>Robert indaga nel <i>Marshall Space Flight Center</i> di Huntsville, in Alabama, dove viene provocato e abbracciato dalla misteriosa Naira, che lo lascia al suo destino. Dopo che Zeno lo soccorre, inizia a viaggiare assieme a lui e Paul.</p>
 	</dd>
 	<dt>19 Aprile</dt>
 	<dd>

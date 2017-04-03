@@ -10,6 +10,6 @@ nav-menu: true
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="assets/images/peter.jpg" alt="" /></span><h3>Peter DeRosa</h3></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/peter.jpg" alt="" /></span><h3>Elizabeth Cooper</h3></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/markbolin.jpg" alt="" /></span><h3>Mark Bolin</h3></div>
 	</div>
 </div>

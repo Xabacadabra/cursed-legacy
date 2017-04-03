@@ -8,7 +8,7 @@ nav-menu: true
 <span class="image fit"><img src="assets/images/camarilla.jpg" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/vannevar.jpg" alt="" /></span><h3>Vannevar Thomas - Il Principe</h3></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/vannevar.jpg" alt="" /></span><h3>Vannevar - Il Principe</h3></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/nikolai.jpg" alt="" /></span><h3>Nikolai - Il Siniscalco</h3></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/railsback.jpg" alt="" /></span><h3>Railsback - Lo Sceriffo</h3></div>
 		<!-- Break -->
