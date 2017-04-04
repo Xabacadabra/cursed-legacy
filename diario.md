@@ -53,13 +53,21 @@ nav-menu: true
 				<td>Paul e Robert prendono parte allo Sbarco in Normandia</td>
 			</tr>
 			<tr>
+				<td>1945</td>
+				<td>Paul, tornato dalla guerra, inizia a lavorare come meccanico nell'officina di suo nonno</td>
+			</tr>			
+			<tr>
 				<td>1947</td>
 				<td>Robert è testimone dell'Incidente di Roswell e decide di lasciare l'esercito</td>
 			</tr>
 			<tr>
 				<td>1952</td>
 				<td>Proclamazione della Repubblica Popolare di Polonia. Otto fugge negli USA</td>
-			</tr>			
+			</tr>
+			<tr>
+				<td>1954</td>
+				<td>Grace Kelly soffia ad Alice il ruolo da protagonista per "Il delitto perfetto", stroncandone di fatto la carriera</td>
+			</tr>							
 			<tr>
 				<td>1955</td>
 				<td>Caso Rosa Parks: Edgar Anderson, il padre di Maya, si reca in Alabama per seguirlo in prima persona</td>
@@ -92,12 +100,14 @@ nav-menu: true
 	</dd>
 	<dt>1 Maggio</dt>
 	<dd>
-		<p>Maya sembra aver perso il lavoro d'infermiera all'ospedale St. Mary a causa dell'influente imprenditore razzista Mark Bolin: non pago, quest'ultimo assedia la casa della ragazza assieme ad alcuni membri della "Chiesa cristiana di Gesù Cristo". Durante lo scontro, la ragazza viene colpita da un proiettile ed è abbracciata da Zeno in punto di morte.</p>
+		<p>Maya sembra aver perso il lavoro d'infermiera all'ospedale St. Mary a causa dell'influente imprenditore razzista Mark Bolin: non pago, quest'ultimo assedia la casa della ragazza assieme ad alcuni membri della "Chiesa cristiana di Gesù Cristo". Durante lo scontro, Maya viene colpita da un proiettile ed abbracciata da Zeno in punto di morte.</p>
 
-		<p>In seguito a varie peripezie, soprattutto grazie alle manovre di Zeno (e l'annoiato conformismo di Jacques) Alice, Maya, Otto, Paul e Robert vengono finalmente presentati al Principe Vannevar, incontrando così anche il siniscalco Nikolai, lo sceriffo Railsback e , sopratutto per Otto, Glory: una Malkavian a cui il polacco deve la vita, essendo Nikolai pronto a condannarlo alla Morte Ultima dietro ordine del Principe.
+		<p>In seguito a varie peripezie, soprattutto grazie alle manovre di Zeno (e l'annoiato conformismo di Jacques) Alice, Maya, Otto, Paul e Robert vengono finalmente presentati al Principe Vannevar, incontrando così anche il siniscalco Nikolai, lo sceriffo Railsback e , sopratutto per Otto, Glory: una Malkavian a cui il polacco deve la vita, essendo il Siniscalco pronto a giustiziarlo eseguendo un tacito ordine del Principe.
 		</p>
 
-		<p>Nikolai stesso offre al gruppo di neonati una missione per conto di Vannevar, specificando che eseguirla non è un obbligo ma incidera parecchio sul loro futuro status nella Camarilla.
+		<p>Nikolai ha anche offerto al gruppo di giovani vampiri una missione, specificando che eseguirla non è un obbligo ma inciderà parecchio sul loro futuro status nella Camarilla.
 		</p>
+
+		<p>Maya (diffidente e preoccupata per sua madre) sembra intenzionata a tornarsene a casa, e Alice non perde occasione per provocarla.</p>
 	</dd>									
 </dl>
