@@ -109,5 +109,25 @@ nav-menu: true
 		</p>
 
 		<p>Maya (diffidente e preoccupata per sua madre) sembra intenzionata a tornarsene a casa, e Alice non perde occasione per provocarla.</p>
+
+<p>Dopo alcune discussioni abbastanza accese, Maya abbandona l'Elysium tornando a casa prima del ritorno di Nikolai. Zeno decide di seguirla assecondando il suggerimento di Paul.</p>
+
+<p>Nikolai rivela i dettagli della missione: indagare sull'omicidio di Benedict, il primogeno Tremere.
+
+La Camarilla sospetta una riapertura delle ostilità da parte degli Anarchici, in netto contrasto alla fragile tregua vigente tra le due fazioni. Nikolai suggerisce tre piste da seguire:</p>
+
+<p>Il Vampire Club di Sebastian Melmonth (la Grande Arpia), Alcatraz (dimora di Amelia, la primogena Nosferatu in città) e un incontro diretto all'Elixir Pub, quartier generale degli Anarchici.</p>
+
+<p>Il gruppo si accorda per dividersi gli impegni la sera successiva: Otto e Robert ad Alcatraz, Alice e Paul al Vampire Club. Solo dopo aver raccolto abbastanza informazioni tenteranno l'approccio con gli Anarchici.</p>
+
+<p>Nel frattempo, Maya torna a casa dove reincontra Peter De Rosa, evidentemente sull'orlo della disperazione pur di trovare Mark Bolin: i due discutono più che animatamente, e le provocazioni del ragazzo unite all'ansia per lo status di sua madre portano Maya ad accoltellarlo alla spalla, anche se quest'ultimo (nonostante sceneggiate esasperanti) sembra incassare fin troppo facilmente al colpo.
+
+Seguono ulteriori discorsi sterili, con Peter che si allontana e Maya che riesce a pedinarlo scoprendo un suo appuntamento al Verdi Club l'indomani, e una misteriosa berlina nera targata Nevada.</p> 
+
+<p>Uscendo dall'Elysium, Paul e Robert vengono avvicinati da un misterioso Nativo Americano con cui il Gangrel sembra essere sul punto di scontrarsi, prima di decidere di seguirlo.</p>
+
+<p>Zeno raggiunge Maya che lo aggiorna, quindi i due si recano al rifugio del Vampiro, dove Paul li sta già attendendo.</p>
+
+<p>Alice offre ospitalità nella sua villa per il riposo diurno, e Otto accetta volentieri l'offerta</p> 
 	</dd>									
 </dl>
