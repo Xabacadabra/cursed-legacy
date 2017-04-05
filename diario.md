@@ -103,6 +103,8 @@ nav-menu: true
 		<p>Maya sembra aver perso il lavoro d'infermiera all'ospedale St. Mary a causa dell'influente imprenditore razzista Mark Bolin: non pago, quest'ultimo assedia la casa della ragazza assieme ad alcuni membri della "Chiesa cristiana di Gesù Cristo". Durante lo scontro, Maya viene colpita da un proiettile ed abbracciata da Zeno in punto di morte.</p>
 
 		<hr />
+
+		<p><h3>La presentazione dal Principe</h3></p>
         
 		<p>In seguito a varie peripezie, soprattutto grazie alle manovre di Zeno (e l'annoiato conformismo di Jacques) Alice, Maya, Otto, Paul e Robert vengono finalmente presentati al Principe Vannevar, incontrando così anche il siniscalco Nikolai, lo sceriffo Railsback e , sopratutto per Otto, Glory: una Malkavian a cui il polacco deve la vita, essendo il Siniscalco pronto a giustiziarlo eseguendo un tacito ordine del Principe.
 		</p>
