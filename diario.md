@@ -102,8 +102,6 @@ nav-menu: true
 	<dd>
 		<p>Maya sembra aver perso il lavoro d'infermiera all'ospedale St. Mary a causa dell'influente imprenditore razzista Mark Bolin: non pago, quest'ultimo assedia la casa della ragazza assieme ad alcuni membri della "Chiesa cristiana di Gesù Cristo". Durante lo scontro, Maya viene colpita da un proiettile ed abbracciata da Zeno in punto di morte.</p>
         
-        <hr />
-
 		<p>In seguito a varie peripezie, soprattutto grazie alle manovre di Zeno (e l'annoiato conformismo di Jacques) Alice, Maya, Otto, Paul e Robert vengono finalmente presentati al Principe Vannevar, incontrando così anche il siniscalco Nikolai, lo sceriffo Railsback e , sopratutto per Otto, Glory: una Malkavian a cui il polacco deve la vita, essendo il Siniscalco pronto a giustiziarlo eseguendo un tacito ordine del Principe.
 		</p>
 
@@ -112,13 +110,19 @@ nav-menu: true
 
 		<p>Maya (diffidente e preoccupata per sua madre) sembra intenzionata a tornarsene a casa, e Alice non perde occasione per provocarla.</p>
 
-		<hr />
-
         <p>Dopo alcune discussioni abbastanza accese, Maya abbandona l'Elysium prima del ritorno di Nikolai. Zeno, dietro suggerimento di Paul, decide di seguirla.</p>
 
         <p>Nikolai rivela i dettagli della missione: indagare sull'omicidio di Benedict, il primogeno Tremere.
 
         <p>La Camarilla sospetta sia una manovra volta alla riapertura delle ostilità da parte degli Anarchici, in netto contrasto con la fragile tregua vigente. Nikolai suggerisce tre piste da seguire:</p>
+        
+        <div>
+        <ul>
+			<li><b>Il Vampire Club</b> di Sebastian Melmoth (la Grande Arpia)</li>
+			<li><b>Alcatraz</b>, la dimora di Amelia (primogena Nosferatu in città)</li>
+			<li><b>L'Elixir Pub</b>, il quartier generale degli Anarchici.</li>
+		</ul>
+		</div>
 
         <p>Il gruppo si accorda per dividersi gli impegni la sera successiva: Otto e Robert ad Alcatraz, Alice e Paul al Vampire Club. Solo dopo aver raccolto abbastanza informazioni tenteranno l'approccio con gli Anarchici.</p>
 
