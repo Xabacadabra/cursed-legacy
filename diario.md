@@ -101,6 +101,8 @@ nav-menu: true
 	<dt>1 Maggio</dt>
 	<dd>
 		<p>Maya sembra aver perso il lavoro d'infermiera all'ospedale St. Mary a causa dell'influente imprenditore razzista Mark Bolin: non pago, quest'ultimo assedia la casa della ragazza assieme ad alcuni membri della "Chiesa cristiana di Gesù Cristo". Durante lo scontro, Maya viene colpita da un proiettile ed abbracciata da Zeno in punto di morte.</p>
+        
+        <hr />
 
 		<p>In seguito a varie peripezie, soprattutto grazie alle manovre di Zeno (e l'annoiato conformismo di Jacques) Alice, Maya, Otto, Paul e Robert vengono finalmente presentati al Principe Vannevar, incontrando così anche il siniscalco Nikolai, lo sceriffo Railsback e , sopratutto per Otto, Glory: una Malkavian a cui il polacco deve la vita, essendo il Siniscalco pronto a giustiziarlo eseguendo un tacito ordine del Principe.
 		</p>
@@ -110,24 +112,29 @@ nav-menu: true
 
 		<p>Maya (diffidente e preoccupata per sua madre) sembra intenzionata a tornarsene a casa, e Alice non perde occasione per provocarla.</p>
 
-<p>Dopo alcune discussioni abbastanza accese, Maya abbandona l'Elysium tornando a casa prima del ritorno di Nikolai. Zeno decide di seguirla assecondando il suggerimento di Paul.</p>
+		<hr />
 
-<p>Nikolai rivela i dettagli della missione: indagare sull'omicidio di Benedict, il primogeno Tremere.
+        <p>Dopo alcune discussioni abbastanza accese, Maya abbandona l'Elysium prima del ritorno di Nikolai. Zeno la segue dietro, suggerimento di Paul.</p>
 
-La Camarilla sospetta una riapertura delle ostilità da parte degli Anarchici, in netto contrasto alla fragile tregua vigente tra le due fazioni. Nikolai suggerisce tre piste da seguire:</p>
+        <p>Nikolai rivela i dettagli della missione: indagare sull'omicidio di Benedict, il primogeno Tremere.
 
-<p>Il Vampire Club di Sebastian Melmonth (la Grande Arpia), Alcatraz (dimora di Amelia, la primogena Nosferatu in città) e un incontro diretto all'Elixir Pub, quartier generale degli Anarchici.</p>
+        <p>La Camarilla sospetta sia una manovra volta alla riapertura delle ostilità da parte degli Anarchici, in netto contrasto con la fragile tregua vigente. Nikolai suggerisce tre piste da seguire:</p>
+        <ul>
+			<li>Il Vampire Club di Sebastian Melmoth (la Grande Arpia)</li>
+			<li>Alcatraz, la dimora di Amelia (primogena Nosferatu in città)</li>
+			<li>L'Elixir Pub, il quartier generale degli Anarchici.</li>
+		</ul>
 
-<p>Il gruppo si accorda per dividersi gli impegni la sera successiva: Otto e Robert ad Alcatraz, Alice e Paul al Vampire Club. Solo dopo aver raccolto abbastanza informazioni tenteranno l'approccio con gli Anarchici.</p>
+        <p>Il gruppo si accorda per dividersi gli impegni la sera successiva: Otto e Robert ad Alcatraz, Alice e Paul al Vampire Club. Solo dopo aver raccolto abbastanza informazioni tenteranno l'approccio con gli Anarchici.</p>
 
-<p>Nel frattempo, Maya torna a casa dove reincontra Peter De Rosa, evidentemente sull'orlo della disperazione pur di trovare Mark Bolin: i due discutono più che animatamente, e le provocazioni del ragazzo unite all'ansia per lo status di sua madre portano Maya ad accoltellarlo alla spalla, anche se quest'ultimo (nonostante sceneggiate esasperanti) sembra incassare fin troppo facilmente al colpo.
+        <p>Alice offre ospitalità nella sua villa per il riposo diurno, ma solo Otto accetta l'offerta.</p> 
 
-Seguono ulteriori discorsi sterili, con Peter che si allontana e Maya che riesce a pedinarlo scoprendo un suo appuntamento al Verdi Club l'indomani, e una misteriosa berlina nera targata Nevada.</p> 
+        <p>Nel frattempo, Maya torna a casa dove ritrova Peter De Rosa: quest'ultimo è alla disperata ricerca del defunto Mark Bolin. I due discutono più che animatamente e le provocazioni del ragazzo (unite all'ansia per le condizioni di sua madre) portano Maya ad accoltellarlo alla spalla. Tuttavia Peter, (nonostante sceneggiate esasperanti) incassa fin troppo facilmente al colpo.</p>
 
-<p>Uscendo dall'Elysium, Paul e Robert vengono avvicinati da un misterioso Nativo Americano con cui il Gangrel sembra essere sul punto di scontrarsi, prima di decidere di seguirlo.</p>
+        <p>Seguono ulteriori discorsi sterili, con Peter che abbandona la dimora degli Anderson. Maya riesce comunque a pedinarlo vedendolo salire sopra una berlina nera targata Nevada, scoprendo un suo appuntamento al Verdi Club l'indomani.</p> 
 
-<p>Zeno raggiunge Maya che lo aggiorna, quindi i due si recano al rifugio del Vampiro, dove Paul li sta già attendendo.</p>
+        <p>Uscendo dall'Elysium, Paul e Robert vengono avvicinati da un misterioso Nativo Americano: lui e Robert sembrano sul punto di scontrarsi, ma alla fine il texano decide di seguirlo per scoprire qualcosa di più sul suo clan (in teoria).</p>
 
-<p>Alice offre ospitalità nella sua villa per il riposo diurno, e Otto accetta volentieri l'offerta</p> 
+        <p>Intento Zeno (che non sa guidare decentemente) raggiunge Maya: quest'ultima lo aggiorna sugli ultimi eventi, quindi i due si recano al rifugio del Vampiro, dove Paul li sta già attendendo.</p>
 	</dd>									
 </dl>
