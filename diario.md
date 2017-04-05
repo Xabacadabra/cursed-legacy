@@ -126,7 +126,6 @@ nav-menu: true
 			<li><b>Alcatraz</b>, la dimora di Amelia (primogena Nosferatu in città)</li>
 			<li><b>L'Elixir Pub</b>, il quartier generale degli Anarchici.</li>
 		</ul>
-		</div>
 		</p>
 
         <p>Il gruppo si accorda per dividersi gli impegni la sera successiva: Otto e Robert ad Alcatraz, Alice e Paul al Vampire Club. Solo dopo aver raccolto abbastanza informazioni tenteranno l'approccio con gli Anarchici.</p>
