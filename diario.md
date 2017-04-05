@@ -115,6 +115,7 @@ nav-menu: true
 		<p>Maya (diffidente e preoccupata per sua madre) sembra intenzionata a tornarsene a casa, e Alice non perde occasione per provocarla.</p>
 
 		<hr />
+		<p><h3>La missione</h3></p>
 
         <p>Dopo alcune discussioni abbastanza accese, Maya abbandona l'Elysium prima del ritorno di Nikolai. Zeno, dietro suggerimento di Paul, decide di seguirla.</p>
 
