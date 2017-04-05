@@ -119,11 +119,14 @@ nav-menu: true
         <p>Nikolai rivela i dettagli della missione: indagare sull'omicidio di Benedict, il primogeno Tremere.
 
         <p>La Camarilla sospetta sia una manovra volta alla riapertura delle ostilità da parte degli Anarchici, in netto contrasto con la fragile tregua vigente. Nikolai suggerisce tre piste da seguire:</p>
+        
+        <div>
         <ul>
 			<li>Il Vampire Club di Sebastian Melmoth (la Grande Arpia)</li>
 			<li>Alcatraz, la dimora di Amelia (primogena Nosferatu in città)</li>
 			<li>L'Elixir Pub, il quartier generale degli Anarchici.</li>
 		</ul>
+		</div>
 
         <p>Il gruppo si accorda per dividersi gli impegni la sera successiva: Otto e Robert ad Alcatraz, Alice e Paul al Vampire Club. Solo dopo aver raccolto abbastanza informazioni tenteranno l'approccio con gli Anarchici.</p>
 
@@ -136,5 +139,6 @@ nav-menu: true
         <p>Uscendo dall'Elysium, Paul e Robert vengono avvicinati da un misterioso Nativo Americano: lui e Robert sembrano sul punto di scontrarsi, ma alla fine il texano decide di seguirlo per scoprire qualcosa di più sul suo clan (in teoria).</p>
 
         <p>Intento Zeno (che non sa guidare decentemente) raggiunge Maya: quest'ultima lo aggiorna sugli ultimi eventi, quindi i due si recano al rifugio del Vampiro, dove Paul li sta già attendendo.</p>
+	
 	</dd>									
 </dl>
