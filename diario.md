@@ -114,19 +114,11 @@ nav-menu: true
 
 		<hr />
 
-        <p>Dopo alcune discussioni abbastanza accese, Maya abbandona l'Elysium prima del ritorno di Nikolai. Zeno la segue dietro, suggerimento di Paul.</p>
+        <p>Dopo alcune discussioni abbastanza accese, Maya abbandona l'Elysium prima del ritorno di Nikolai. Zeno, dietro suggerimento di Paul, decide di seguirla.</p>
 
         <p>Nikolai rivela i dettagli della missione: indagare sull'omicidio di Benedict, il primogeno Tremere.
 
         <p>La Camarilla sospetta sia una manovra volta alla riapertura delle ostilità da parte degli Anarchici, in netto contrasto con la fragile tregua vigente. Nikolai suggerisce tre piste da seguire:</p>
-        
-        <div>
-        <ul>
-			<li>Il Vampire Club di Sebastian Melmoth (la Grande Arpia)</li>
-			<li>Alcatraz, la dimora di Amelia (primogena Nosferatu in città)</li>
-			<li>L'Elixir Pub, il quartier generale degli Anarchici.</li>
-		</ul>
-		</div>
 
         <p>Il gruppo si accorda per dividersi gli impegni la sera successiva: Otto e Robert ad Alcatraz, Alice e Paul al Vampire Club. Solo dopo aver raccolto abbastanza informazioni tenteranno l'approccio con gli Anarchici.</p>
 
