@@ -144,6 +144,29 @@ nav-menu: true
         <p>Uscendo dall'Elysium, Paul e Robert vengono avvicinati da un misterioso Nativo Americano: lui e Robert sembrano sul punto di scontrarsi, ma alla fine il texano decide di seguirlo per scoprire qualcosa di più sul suo clan (in teoria).</p>
 
         <p>Intento Zeno (che non sa guidare decentemente) raggiunge Maya: quest'ultima lo aggiorna sugli ultimi eventi, quindi i due si recano al rifugio del Vampiro, dove Paul li sta già attendendo.</p>
-	
+
+        <hr />
+		<p><h3>Al rifugio</h3></p>
+
+		<p>Otto, Alice e Jacques partono alla volta di Villa Winchester. 
+		Durante il viaggio, con Alice alla guida, Jacques sembra manifestare un certo tacito interesse nei confronti di Otto: lo fissa intensamente in perfetto silenzio, mettendo il povero polacco alquanto a disagio.</p>
+
+		<p>I tre vengono fermati da un posto di blocco della polizia al Geary Bulevard: le forze dell'ordine sono accorse a seguito dell'incidente che qualche ora prima aveva portato all'abbraccio di Maya.</p>
+
+		<p>Alice tenta di superare velocemente i controlli sfoderando il suo fascino con un poliziotto, ma non fa altro che peggiorare la situazione irritandolo. La presenza di Otto, nervoso e palesemente sospetto, non contribuisce a migliorare le cose e, nel tentativo di evitare un violento arresto, il Malkavian riesce ad placare l'ira dell'agente solo facendo appello alla disciplina <i>Demenza</i>.</p>
+
+		<p>Alice tenta parimenti di liberarsi da un altro dei poliziotti con <i>Ascendente</i>, ma la sua scarsa dimestichezza coi doni vampirici la porta a fallire nuovamente: la situazione sembra precipitare, quando Jacques si decide ad intervenire manipolando sapientemente tutti i piedipiatti rimasti garantendo ai tre un passaggio incolume.</p>
+
+		<p>Nel frattemo Maya e Zeno incontrano Paul e lo aggiornano sulla situazione: venendo a conoscenza della presenza di suo fratello Peter al Verdi Club l'indomani, quest'ultimo s'infuria, ma decide di concedere comunque priorità all'impegno precedentemente preso con i nuovi compagni della Camarilla.</p>
+
+		<p>Maya chiama il Verdi nel tentativo di scucire dal proprietario Joe Masseria qualche informazione riguardo i movimenti di Peter: il vecchio Joe però non si fa abbindolare, e limitandosi ad offrire alla ragazza la possibilità di esibirsi cantando nel locale.</p>
+
+		<p>Intanto Robert tenta di tenere il passo sovrannaturale di Yurok, scoprendo per la prima volta i doni dettati dalla sua nuova condizione di vampiro: insieme i due attraversano mezza città, arrivando al Golden Gate Bridge. Nel tentativo di scalarlo, Robert si schianta in mare accusando il colpo, sebbene decisamente meno di quanto lo avrebbe fatto un mortale. I due proseguono a nuoto, giungendo sulla costa della Marin County e sucessivamente in una radura all'inizio dei Muir Woods. Qui Yurok rivela a Robert di essere il Sire di Naira, ovvero il suo Grandsire.</p>
+
+		<p>Robert presenzia all'Adunanza del branco Gangrel più importante dell'area: i Moon Creek, riuscendo a non cedere alle provocazioni del violento capobranco Nash.</p>
+
+		<p>Rimasto a cavarsela da solo per volere di Yurok, Robert fa appello a tutte le sue doti di sopravvivenza riuscendo a trovare rifugio in una piccola grotta poco prima dell'alba.</p>
+
+		<p>Otto scopre con sommo terrore che la dimora di Alice è la stessa Villa che qualche settimana prima aveva tentato di rapinare: Alice, memore della testimonianza di sua madre sulle origini slave dei ladri, cova un vago sospetto nei confronti del malkavian, ma quest'ultimo riesce a mostrarsi sufficentemente calmo evitando di tradirsi.</p>
 	</dd>									
 </dl>
