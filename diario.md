@@ -157,7 +157,7 @@ nav-menu: true
 
 		<p>Alice tenta parimenti di liberarsi da un altro dei poliziotti con <i>Ascendente</i>, ma la sua scarsa dimestichezza coi doni vampirici la porta a fallire nuovamente: la situazione sembra precipitare, quando Jacques si decide ad intervenire manipolando sapientemente tutti i piedipiatti rimasti garantendo ai tre un passaggio incolume.</p>
 
-		<p>Nel frattemo Maya e Zeno incontrano Paul e lo aggiornano sulla situazione: venendo a conoscenza della presenza di suo fratello Peter al Verdi Club l'indomani, quest'ultimo s'infuria, ma decide di concedere comunque priorità all'impegno precedentemente preso con i nuovi compagni della Camarilla.</p>
+		<p>Nel frattempo Maya e Zeno incontrano Paul e lo aggiornano sulla situazione: venendo a conoscenza della presenza di suo fratello Peter al Verdi Club l'indomani, quest'ultimo s'infuria, ma decide di concedere comunque priorità all'impegno precedentemente preso con i nuovi compagni della Camarilla.</p>
 
 		<p>Maya chiama il Verdi nel tentativo di scucire dal proprietario Joe Masseria qualche informazione riguardo i movimenti di Peter: il vecchio Joe però non si fa abbindolare, e limitandosi ad offrire alla ragazza la possibilità di esibirsi cantando nel locale.</p>
 
