@@ -182,7 +182,7 @@ nav-menu: true
 
         <p>Sconvolta e terribilmente provata, ma incapace di provare qualsiasi forma d'ira per la notte, Alice fugge assieme a suo padre dirigendosi verso Los Angeles.</p>
 
-        <p>Nel frattempo Robert riesce a nutrirsi di una piccola volpe, garantendosi un leggero sostentamento per tornare a San Francisco: giunto nell'area settentrionale della città, il gangrel decide di proseguire con l'autostop, tentando di nutrirsi del suo benefattore tramortendolo...non controllando la propria forza sovrannaturale, tuttavia, finisce per decapitare la malcapitata vittima con un colpo: il conseguente tripudio di sangue attira l'attenzione di un passante che urla invocando l'aiuto della polizia, Robert lo tramortisce fuggendo verso la costa per far perdere le tracce.</p>
+        <p>Nel frattempo Robert riesce a nutrirsi di una piccola volpe, garantendosi un leggero sostentamento per tornare a San Francisco: giunto nell'area settentrionale della città, il gangrel decide di proseguire con l'autostop, tentando di nutrirsi del suo benefattore tramortendolo...non controllando la propria forza sovrannaturale, tuttavia, finisce per decapitare la malcapitata vittima con un colpo: il conseguente tripudio di sangue attira l'attenzione di un passante che urla invocando l'aiuto della polizia, ma Robert riesce a tramortirlo fuggendo verso la costa in modo da far perdere le sue tracce.</p>
 
         <p>Paul, più calmo rispetto alla sera precedente, si congeda da Zeno e Maya raccomandandosi per il fratello Peter, quindi raggiunge il Russ Bulding, dove attende invano l'arrivo degli altri: spazientito, decide di entrare nell'Elysium dove ha una breve conversazione con Nikolai.</p>
 
@@ -195,7 +195,9 @@ nav-menu: true
 
         <p>A detta di Zeno, Rothstein è il nome di un vampiro attivo nell'area di Las Vegas, tanto potente da risultare indipendente dalla Camarilla.</p>
 
-        <p>Jacques decide di sistemare il caos di Villa Winchester in modo drastico: manipola alcuni domestici provocando una fuga di gas. Lasciandosi la colossale esplosione conseguente alle loro spalle, Jacques e Otto si dirigono verso il Russ Bulding</p>
+        <p>Jacques decide di sistemare il caos di Villa Winchester in modo drastico: manipola alcuni domestici provocando una fuga di gas.</p>
+
+        <p>Lasciandosi la colossale esplosione conseguente alle loro spalle, Jacques e Otto si dirigono verso il Russ Bulding</p>
 
         <p>Robert, Otto e Paul riescono finalmente ad incontrarsi al Russ Bulding e fanno il punto sulla situazione, mentre Jacques li lascia soli entrando nell'Elysium.</p>
    </dd>									
