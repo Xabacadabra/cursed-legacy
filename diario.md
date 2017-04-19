@@ -171,7 +171,6 @@ nav-menu: true
 	</dd>
     <dt>2 Maggio</dt>
     <dd>
-        
         <p>Al suo risveglio Otto viene manipolato da Jacques con <i>Incanto</i>, divenendone schiavo per l'intero mese.</p>
 
         <p>Ma è dopo l'incontro col Toreador che iniziano i veri guai: il sangue che Otto ha in corpo inizia a scarseggiare e il malkavian cede al proprio lato più ferale, percependo distintamente la presenza di Lexie Choen e Thomas Winchester, i genitori di Alice</p>
@@ -195,5 +194,5 @@ nav-menu: true
         <p>il Brujah spiega che Rothstein è un vampiro molto potente, indipendente dalla Camarilla e attivo nell'area di Las Vegas</p>
 
         <p>Robert, Otto e Paul riescono finalmente ad incontrarsi al Russ Bulding e fanno il punto sulla situazione (anche vista l'assenza di Alice), mentre Jacques entra nell'Elysium</p>
-    </dd>									
+   </dd>									
 </dl>
