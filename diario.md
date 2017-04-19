@@ -174,29 +174,29 @@ nav-menu: true
 
         <p><h3>Un brusco risveglio </h3></p>
 
-        <p>Al suo risveglio Otto viene manipolato da Jacques con <i>Incanto</i>, divenendone schiavo per l'intero mese...ma è solo dopo l'incontro col Toreador che iniziano i veri guai: il sangue che Otto ha in corpo inizia a scarseggiare e il malkavian cede al proprio lato più ferale, percependo distintamente la presenza di Lexie Choen e Thomas Winchester, i genitori di Alice.</p>
+        <p>Otto viene manipolato da Jacques con <i>Incanto</i>, divenendone schiavo per l'intero mese, ma è solo dopo l'incontro col Toreador che iniziano i veri guai: il sangue che Otto ha in corpo inizia a scarseggiare e il malkavian, percependo la presenza di Lexie Choen e Thomas Winchester (i genitori di Alice) cede al proprio lato più ferale.</p>
 
-        <p>Alice e Jacques tentano di fermare la frenesia di Otto, ma quest'ultimo riesce a divincolarsi senza troppe difficoltà, avventandosi sulla povera Lexie sbranandola e prosciugandola di ogni goccia di sangue: terrorizzato, Thomas tenta di fuggire e chiamare la polizia.</p>
+        <p>Alice e Jacques tentano di fermare la frenesia di Otto, ma quest'ultimo riesce a divincolarsi da loro senza troppe difficoltà, avventandosi sulla povera Lexie sbranandola e prosciugandola di ogni goccia di sangue: terrorizzato, Thomas tenta di fuggire e chiamare la polizia.</p>
 
         <p>Alice è fuori di se e tenta di attaccare su Otto che, ripreso il controllo delle proprie facoltà mentali (almeno per quanto possibile) riesce a placarne la furia facendo appello a <i>Demenza</i>.</p>
 
         <p>Sconvolta e terribilmente provata, ma incapace di provare qualsiasi forma d'ira per la notte, Alice fugge assieme a suo padre dirigendosi verso Los Angeles.</p>
 
-        <p>Nel frattempo Robert riesce a nutrirsi di una piccola volpe, garantendosi un leggero sostentamento per tornare a San Francisco: giunto al confine con la città, il gangrel decide di proseguire con l'autostop, tentando di nutrirsi del suo benefattore tramortendolo...non considerando la sua forza sovrannaturale, tuttavia, finisce per decapitare la sua malcapitata vittima con un singolo colpo.</p>
+        <p>Nel frattempo Robert riesce a nutrirsi di una piccola volpe, garantendosi un leggero sostentamento per tornare a San Francisco: giunto nell'area settentrionale della città, il gangrel decide di proseguire con l'autostop, tentando di nutrirsi del suo benefattore tramortendolo...non controllando la propria forza sovrannaturale, tuttavia, finisce per decapitare la malcapitata vittima con un colpo: il conseguente tripudio di sangue attira l'attenzione di un passante che urla invocando l'aiuto della polizia, Robert lo tramortisce fuggendo verso la costa per far perdere le tracce.</p>
 
-        <p>Paul, più calmo rispetto alla sera precedente, si congeda da Zeno e Maya raccomandandosi per la vita del fratello Peter e raggiunge il Russ Bulding, dove attende invano l'arrivo degli altri: spazientito, decide di entrare nell'Elysium dove ha una breve conversazione con Nikolai.</p>
+        <p>Paul, più calmo rispetto alla sera precedente, si congeda da Zeno e Maya raccomandandosi per il fratello Peter, quindi raggiunge il Russ Bulding, dove attende invano l'arrivo degli altri: spazientito, decide di entrare nell'Elysium dove ha una breve conversazione con Nikolai.</p>
 
         <hr />
 		<p><h3>Rothstein</h3></p>
 
-        <p>Maya e Zeno giungono al Verdi Club e, mentre la ragazza perlustra l'esterno del locale, ritrovano in un garage a pochi isolati la berlina nera con cui Peter si era allontanato la notte precedente: esaminandola, Maya trova un biglietto da visita il cui nome manda Zeno in evidente stato d'agitazione:</p>
+        <p>Maya e Zeno giungono al Verdi Club e, mentre la ragazza perlustra l'esterno del locale, ritrovano in un garage a pochi isolati la berlina nera con cui Peter si era allontanato la notte precedente: esaminandola, Maya trova un biglietto da visita:</p>
 
         <span class="image fit"><img src="assets/images/biglietto-rothstein.jpg" alt="" /></span>
 
-        <p>A detta del brujah Rothstein è un vampiro molto potente attivo nell'area di Las Vegas, abbastanza da risultare indipendente dalla Camarilla.</p>
+        <p>A detta di Zeno, Rothstein è il nome di un vampiro attivo nell'area di Las Vegas, tanto potente da risultare indipendente dalla Camarilla.</p>
 
-        <p>Jacques decide di sistemare il casino a Villa Winchester in modo drastico: manipolando alcuni domestici in modo di farla esplodere. Dopodiché, lui e Otto si dirigono verso il Russ Bulding</p>
+        <p>Jacques decide di sistemare il caos di Villa Winchester in modo drastico: manipola alcuni domestici provocando una fuga di gas. Lasciandosi la colossale esplosione conseguente alle loro spalle, Jacques e Otto si dirigono verso il Russ Bulding</p>
 
-        <p>Robert, Otto e Paul riescono finalmente ad incontrarsi al Russ Bulding e fanno il punto sulla situazione, mentre Jacques entra nell'Elysium.</p>
+        <p>Robert, Otto e Paul riescono finalmente ad incontrarsi al Russ Bulding e fanno il punto sulla situazione, mentre Jacques li lascia soli entrando nell'Elysium.</p>
    </dd>									
 </dl>
