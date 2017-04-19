@@ -197,7 +197,7 @@ nav-menu: true
 
         <p>Jacques decide di sistemare il caos di Villa Winchester in modo drastico: manipola alcuni domestici provocando una fuga di gas.</p>
 
-        <p>Lasciandosi la colossale esplosione conseguente alle loro spalle, Jacques e Otto si dirigono verso il Russ Bulding</p>
+        <p>Jacques e Otto quindi si dirigono verso il Russ Bulding, lasciandosi alle spalle la colossale esplosione della Villa.</p>
 
         <p>Robert, Otto e Paul riescono finalmente ad incontrarsi al Russ Bulding e fanno il punto sulla situazione, mentre Jacques li lascia soli entrando nell'Elysium.</p>
    </dd>									
