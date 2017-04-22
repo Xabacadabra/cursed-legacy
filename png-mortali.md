@@ -15,5 +15,6 @@ nav-menu: true
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="assets/images/elizabeth.jpg" alt="" /></span><h3>Elizabeth Cooper</h3></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/joemasseria.jpg" alt="" /></span><h3>Joe Masseria</h3></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/edgard.jpg" alt="" /></span><h3>Edgard Anderson</h3></div>
 	</div>
 </div>
