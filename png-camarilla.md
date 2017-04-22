@@ -18,5 +18,6 @@ nav-menu: true
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="assets/images/amelia.jpg" alt="" /></span><h3>Amelia</h3></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/yurok.jpg" alt="" /></span><h3>Yurok</h3></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/nash.jpg" alt="" /></span><h3>Nash</h3></div>
 	</div>
 </div>
