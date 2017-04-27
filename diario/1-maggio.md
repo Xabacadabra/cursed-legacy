@@ -11,7 +11,7 @@ Maya sembra aver perso il lavoro d'infermiera all'ospedale St. Mary a causa dell
 ## La presentazione dal Principe
 
 <span class="image fit">
-<img src="assets/images/elysium-principe.jpg" alt="" />
+<img src="../assets/images/elysium-principe.jpg" alt="">
 </span>
         
 In seguito a varie peripezie, soprattutto grazie alle manovre di Zeno (e l'annoiato conformismo di Jacques) Alice, Maya, Otto, Paul e Robert vengono finalmente presentati al Principe Vannevar, incontrando così anche il siniscalco Nikolai, lo sceriffo Railsback e , sopratutto per Otto, Glory: una Malkavian a cui il polacco deve la vita, essendo il Siniscalco pronto a giustiziarlo eseguendo un tacito ordine del Principe.
