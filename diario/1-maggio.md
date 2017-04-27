@@ -3,7 +3,8 @@ layout: post
 title: "1 Maggio 1956"
 description: Lorem ipsum dolor est
 image: assets/images/timeline.jpg
-nav-menu: null
+nav-menu: true
+exclude: true
 ---
 
 Maya sembra aver perso il lavoro d'infermiera all'ospedale St. Mary a causa dell'influente imprenditore razzista Mark Bolin: non pago, quest'ultimo assedia la casa della ragazza assieme ad alcuni membri della "Chiesa cristiana di Gesù Cristo". Durante lo scontro, Maya viene colpita da un proiettile ed abbracciata da Zeno in punto di morte.
@@ -71,4 +72,4 @@ Rimasto a cavarsela da solo per volere di Yurok, Robert fa appello a tutte le su
 
 Otto scopre con sommo terrore che la dimora di Alice è la stessa Villa che qualche settimana prima aveva tentato di rapinare: Alice, memore della testimonianza di sua madre sulle origini slave dei ladri, cova un vago sospetto nei confronti del malkavian, ma quest'ultimo riesce a mostrarsi sufficentemente calmo evitando di tradirsi.
 
-<a href="diario.html" class="button next">2 Maggio</a>
+<a href="2-maggio.html" class="button next">2 Maggio</a>
