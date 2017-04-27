@@ -3,7 +3,7 @@ layout: post
 title: "1 Maggio 1956"
 description: Lorem ipsum dolor est
 image: assets/images/timeline.jpg
-nav-menu: false
+nav-menu: null
 ---
 
 Maya sembra aver perso il lavoro d'infermiera all'ospedale St. Mary a causa dell'influente imprenditore razzista Mark Bolin: non pago, quest'ultimo assedia la casa della ragazza assieme ad alcuni membri della "Chiesa cristiana di Gesù Cristo". Durante lo scontro, Maya viene colpita da un proiettile ed abbracciata da Zeno in punto di morte.
