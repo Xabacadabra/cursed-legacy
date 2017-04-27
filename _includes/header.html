@@ -18,14 +18,10 @@
 	    	{% endif %}
 		{% endfor %}
 		{% for page in site.pages %}
-		    {% if page.layout != "home" %}
+		    {% unless page.exclude %}<!--escludo dal menù-->
+		     {% if page.layout != "home" %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
-		    <!--escludo dal menù-->
-	        {% unless page.exclude %}
-		    <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
-			{{ page.title }}
-		    </a>
+		     {% endif %}
 	        {% endunless %}<!--fine esclusione-->
 		{% endfor %}
 	</ul>
