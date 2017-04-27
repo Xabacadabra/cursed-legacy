@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "1 Maggio 1956"
-description: Lorem ipsum dolor est
+description: primo maggio 1956
 image: assets/images/timeline.jpg
 nav-menu: true
 exclude: true
