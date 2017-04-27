@@ -3,14 +3,16 @@ layout: post
 title: "1 Maggio 1956"
 description: Lorem ipsum dolor est
 image: assets/images/timeline.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 Maya sembra aver perso il lavoro d'infermiera all'ospedale St. Mary a causa dell'influente imprenditore razzista Mark Bolin: non pago, quest'ultimo assedia la casa della ragazza assieme ad alcuni membri della "Chiesa cristiana di Gesù Cristo". Durante lo scontro, Maya viene colpita da un proiettile ed abbracciata da Zeno in punto di morte.
 
 ## La presentazione dal Principe
 
-<span class="image fit"><img src="assets/images/elysium-principe.jpg" alt="" /></span>
+<span class="image fit">
+<img src="assets/images/elysium-principe.jpg" alt="" />
+</span>
         
 In seguito a varie peripezie, soprattutto grazie alle manovre di Zeno (e l'annoiato conformismo di Jacques) Alice, Maya, Otto, Paul e Robert vengono finalmente presentati al Principe Vannevar, incontrando così anche il siniscalco Nikolai, lo sceriffo Railsback e , sopratutto per Otto, Glory: una Malkavian a cui il polacco deve la vita, essendo il Siniscalco pronto a giustiziarlo eseguendo un tacito ordine del Principe.
 	
