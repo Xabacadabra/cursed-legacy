@@ -55,7 +55,7 @@ Dall'altro capo del ricevitore risponde una fredda voce maschile, che al nome di
 
 Dopo la strana telefonata, Otto e Robert riescono finalmente ad imbarcarsi verso la prigione senza ulteriori problemi.
 
-<span class="image fit"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alcatraz_wharf2.jpg/800px-Alcatraz_wharf2.jpg'> </span>
+<span class="image fit"><img src='http://s3.amazonaws.com/production.reserve123/images/product/18388-1.jpg'> </span>
 
 Una volta sbarcati sull'isola, vengono accolti da <a href='https://en.wikipedia.org/wiki/Paul_J._Madigan' target="blank">Paul Madigan</a>, l'uomo che ha parlato al telefono con Otto, e che quest'ultimo riconosce immediatamente come direttore del famoso carcere.
 
@@ -127,6 +127,10 @@ Alice guida a tutta velocità per le strade di San Francisco, ignorando i discor
 
 Dopo circa tre ore di viaggio, Alice si ferma in un motel alle porte della città di Fresno.
 
+<span class="image fit">
+<img src="http://static.panoramio.com/photos/large/51687505.jpg" alt="">
+</span> 
+
 Spazientita dalle assillanti domande di suo padre, incapace di provare ira a causa di _Demenza_ e disperata per gli avvenimenti recenti, Alice scoppia in lacrime...lacrime di <i>sangue</i>, come quelle di ogni vampiro.
 
 Il dottor Thomas è evidentemente più sconvolto che mai, ma per sua fortuna Alice riesce a calmarlo tramite <i>Ascendente</i>.
@@ -158,3 +162,7 @@ Vagamente rassicurato, Paul sale in sella alla sua moto e parte alla volta di No
 Nonostante il suo look risulti decisamente fuori posto per lo standard del locale, i buttafuori lo fanno entrare senza fare storie o risultare particolarmente stupiti.
 
 Paul riesce ad ottenere dal barista alcune informazioni riguardo l'aspetto di Sebastian Melmoth, e finisce per intavolare suo malgrado una conversazione alquanto surreale con uno degli ospiti più facoltosi e in vista del club, fino a quando lo stesso Melmoth decide di palesarsi ed incontrarlo.
+
+_(game in progress)_
+
+<a href="1-maggio.html" class="button back">1 Maggio</a>
