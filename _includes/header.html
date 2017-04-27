@@ -21,15 +21,13 @@
 		    {% if page.layout != "home" %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    {% endif %}
-		{% endfor %}
-		<!--escludo dal menù-->
-		{% for page in site.pages %}
-	    {% unless page.exclude %}
-		<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
+		    <!--escludo dal menù-->
+	        {% unless page.exclude %}
+		    <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
 			{{ page.title }}
-		</a>
-	{% endunless %}
-{% endfor %}
+		    </a>
+	        {% endunless %}<!--fine esclusione-->
+		{% endfor %}
 	</ul>
 	<ul class="actions vertical">
 		<li><a href="http://xabacadabra.com/" class="button special fit">Xaba Cadabra</a></li>

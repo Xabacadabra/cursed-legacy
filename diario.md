@@ -251,4 +251,4 @@ nav-menu: true
    </dd>
 </dl>
 
-<a href="/diario/1-maggio/" class="button">1 Maggio 1956</a>
+<a href="/diario/1-maggio.html" class="button">1 Maggio 1956</a>
