@@ -41,9 +41,9 @@ Robert, Otto e Paul riescono finalmente ad incontrarsi al Russ Bulding e fanno i
         
 ## Verso Alcatraz
 
-Otto spiega a Robert e Paul che Alice in realtà è una traditrice pericolosa: il suo discorso sembra avere una certa presa sul gangrel, mentre Paul resta dubbioso e decide di discuterne con Jacques, mettendo comunque in guardia l'amico riguardo il Malkavian
+Otto spiega a Robert e Paul che Alice in realtà è una traditrice pericolosa: il suo discorso sembra avere una certa presa sul gangrel, mentre Paul resta dubbioso e decide di discuterne con Jacques, mettendo comunque in guardia l'amico in merito al Malkavian.
 
-Otto porta Robert da un ente umanitario di sua conoscenza per trovare dei vestiti di ricambio, quindi i due si dirigono verso Alcatraz, restando tuttavia bloccati al traghetto di Fisherman's Wharf, con una guardia che non sembra minimamente intenzionata a farli passare e chiama i rinforzi:
+Otto porta Robert da un ente umanitario di sua conoscenza per trovare dei vestiti di ricambio, quindi i due si dirigono verso Alcatraz, restando tuttavia bloccati al traghetto di Fisherman's Wharf con una guardia che non sembra minimamente intenzionata a farli passare e chiama i rinforzi:
 
 Dopo vari tentativi "diplomatici" falliti miseramente, sommati ad un forte appello di Robert al proprio autocontrollo per non cedere alle provocazioni dei poliziotti, Otto propone al compagno di provare un'altra strada, suggerendo di telefonare ad Amelia, nonostante non conosca alcun numero di telefono associabile alla vampira (o se quest'ultima possegga un apparecchio telefonico, in effetti)
 
@@ -163,6 +163,21 @@ Nonostante il suo look risulti decisamente fuori posto per lo standard del local
 
 Paul riesce ad ottenere dal barista alcune informazioni riguardo l'aspetto di Sebastian Melmoth, e finisce per intavolare suo malgrado una conversazione alquanto surreale con uno degli ospiti più facoltosi e in vista del club, fino a quando lo stesso Melmoth decide di palesarsi ed incontrarlo.
 
-_(game in progress)_
+Melmoth si dimostra piuttosto prodigo di risposte e decisamente "interessato" al giovane Brujah, che riesce comunque a declinare le avanche dell'Arpia evitando di offenderla.
+
+Da Sebastian, Paul apprende che i due precedenti principi di San Francisco appartenevano entrambi al clan Tremere, e l'amicizia tra Benedict e Vannevar, l'attuale Principe Ventrue, non dev'essere mai andata giù alle loro alte sfere.
+
+Sempre a detta di Sebastian, Benedict svolgeva un ruolo cruciale anche nei rapporti coi _cataiani_, meglio noti come Kuei-Jin: vampiri dell'estremo oriente vantanti una rilevante influenza nella Chinatown di San Francisco.
+
+Per ultimo, i rapporti tra il primogeno Tremere con la controversa figura di Delfonso (che sembrerebbe essere stato il primo Principe della città, prima di abdicare molti anni prima) potrebbero averne parimenti compromesso la posizione.
+
+Ottenute le informazioni, Paul decide di recarsi al Verdi Club nella speranza d'incontrare il fratello Peter
+
+## Verdi Club
+
+Giunto al club, Paul lo trova stranamente deserto: nessuno al parcheggio, nessuna musica proveniente dal locale.
+
+Paul decide comunque di vederci chiaro ed entra: il posto è deserto e le luci quasi tutte spente, con solo tre figure presenti.
 
 <a href="1-maggio.html" class="button back">1 Maggio</a>
+<a href="3-maggio.html" class="button next">3 Maggio</a>

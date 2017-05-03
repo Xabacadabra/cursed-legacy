@@ -11,5 +11,6 @@ nav-menu: true
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="assets/images/naira.jpg" alt="" /></span><h3>Naira</h3></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/diacono.jpg" alt="" /></span><h3>Il Diacono</h3></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/bugsy.jpg" alt="" /></span><h3>Bugsy</h3></div>
 	</div>
 </div>
