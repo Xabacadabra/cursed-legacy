@@ -13,7 +13,7 @@ Otto viene manipolato da Jacques con <i>Incanto</i>, divenendone schiavo per l'i
 
 Alice e Jacques tentano di fermare la frenesia di Otto, ma quest'ultimo riesce a divincolarsi da loro senza troppe difficoltà, avventandosi sulla povera Lexie sbranandola e prosciugandola di ogni goccia di sangue: terrorizzato, Thomas tenta di fuggire e chiamare la polizia.
 
-Alice è fuori di se e tenta di attaccare su Otto che, ripreso il controllo delle proprie facoltà mentali (almeno per quanto possibile) riesce a placarne la furia facendo appello a <i>Demenza</i>.
+Alice è fuori di se e tenta di attaccare Otto che, ripreso il controllo delle proprie facoltà mentali (almeno per quanto possibile) riesce a placarne la furia facendo appello a <i>Demenza</i>.
 
 Sconvolta e terribilmente provata, ma incapace di provare qualsiasi forma d'ira per la notte, Alice fugge assieme a suo padre dirigendosi verso Los Angeles.
 
@@ -43,9 +43,9 @@ Robert, Otto e Paul riescono finalmente ad incontrarsi al Russ Bulding e fanno i
 
 Otto spiega a Robert e Paul che Alice in realtà è una traditrice pericolosa: il suo discorso sembra avere una certa presa sul gangrel, mentre Paul resta dubbioso e decide di discuterne con Jacques, mettendo comunque in guardia l'amico in merito al Malkavian.
 
-Otto porta Robert da un ente umanitario di sua conoscenza per trovare dei vestiti di ricambio, quindi i due si dirigono verso Alcatraz, restando tuttavia bloccati al traghetto di Fisherman's Wharf con una guardia che non sembra minimamente intenzionata a farli passare e chiama i rinforzi:
+Otto porta Robert da un ente umanitario di sua conoscenza per trovare dei vestiti di ricambio, quindi i due si dirigono verso Alcatraz, restando tuttavia bloccati al traghetto di Fisherman's Wharf con una guardia che non sembra minimamente intenzionata a farli passare e che anzi, chiama i rinforzi:
 
-Dopo vari tentativi "diplomatici" falliti miseramente, sommati ad un forte appello di Robert al proprio autocontrollo per non cedere alle provocazioni dei poliziotti, Otto propone al compagno di provare un'altra strada, suggerendo di telefonare ad Amelia, nonostante non conosca alcun numero di telefono associabile alla vampira (o se quest'ultima possegga un apparecchio telefonico, in effetti)
+Dopo vari tentativi "diplomatici" falliti miseramente (sommati ad un forte appello di Robert al proprio autocontrollo per non cedere alle provocazioni dei poliziotti) Otto propone al compagno di provare un'altra strada, suggerendo di telefonare ad Amelia, nonostante non conosca alcun numero di telefono associabile alla vampira (o se quest'ultima possegga un apparecchio telefonico, in effetti)
 
 I due entrano in un bar per effettuare la chiamata e, facendo appello al terzo di potere di <i>Demenza</i>, Otto sfrutta <i>Occhi del Caos</i> e ha un breve scorcio della rete Malkavian: 
 
@@ -153,6 +153,10 @@ Poco prima di coricarsi, Alice telefona al ex-fidanzato Luke (un capitano della 
 
 ## L'indagine di Paul
 
+<span class="image fit">
+<img src="http://www.verdiclub.net/images/verdi-night-500px.jpg" alt="">
+</span> 
+
 Paul è nell'Elysium: nota Nikolai alle prese con una telefonata, ed instaura una breve chiaccherata con Jacques.
 
 il toreador appare leggermente stressato, ma risponde normalmente alle domande di Paul, tranquillizzandolo riguardo il comportamento di Otto di poco prima e indicando le ragioni delle sue parole contro Alice motivate dalla caratteristica follia presente nel sangue malkavian.
@@ -175,9 +179,53 @@ Ottenute le informazioni, Paul decide di recarsi al Verdi Club nella speranza d'
 
 ## Verdi Club
 
-Giunto al club, Paul lo trova stranamente deserto: nessuno al parcheggio, nessuna musica proveniente dal locale.
+Giunto sul posto, Paul lo trova stranamente deserto: nessuno al parcheggio, nessuna musica proveniente dal locale.
 
-Paul decide comunque di vederci chiaro ed entra: il posto è deserto e le luci quasi tutte spente, con solo tre figure presenti.
+Il brujah decide comunque di vederci chiaro ed entra: il club è deserto, le luci quasi interamente spente, e nota solo tre figure presenti sedute ad un tavolo.
+
+Da un lato riconosce il suo sire Zeno, dall'altro una bella ragazza afroamericana seduta al fianco di un uomo ben vestito con una benda sull'occhio.
+
+È quest'ultimo che invita il nuovo arrivato ad accomodarsi, spronando il proprietario Joe Masseria (defilato e in ombra rispetto agli altri) a recuperare un'altra sedia per Paul.
+
+Il guercio ha modi affabili e risulta vagamente sorpreso di non essere stato immediatamente riconosciuto dal nuovo arrivato, presentandosi a lui con il nomignolo Bugsy. 
+
+Paul dal canto suo intuisce immediatamente il clima teso e interpreta i segnali di Zeno come un chiaro monito d'avvertimento, e taglia corto la conversazione: Bugsy e la ragazza (che l'uomo chiama Jenna) si allontanano senza troppi drammi.
+
+Una volta soli con Joe Masseria, Zeno spiega brevemente a Paul della scomparsa di Maya e la pessima situazione in cui Peter sembra essersi cacciato: 
+
+> Credo lavori per i Fratelli di Chicago, e che il suo compito fosse fare da scorta Mark Bolin, un imprenditore che avrebbe dovuto incontrare il superiore di Bugsy diverse sere fa. Sfortunatamente io so che Bolin è venuto a mancare per via di un "problema" durante l'abbraccio di Maya, e temo che questo abbia messo Peter in grossi guai.
+
+Entrambi quindi cercano senza successo di trovare Maya, evidentemente dispersa, riuscendo se non altro a scoprire il passaggio segreto dove la ragazza si è andata ad infilare. 
+
+## Maya e "Tequila" Bathurst
+
+Maya è per l'appunto ancora nella misteriosa "stanza degli orrori", svariati metri sotto terra e decisamente lontana dal Verdi Club.
+
+Vagamente disperata ma al tempo stesso sufficientemente decisa da mantenere la calma, la ragazza tenta di risalire il tombino seguendo l'unica strada "sicura" che sembra avere di fronte.
+
+Il tombino la conduce ad un'area leggermente illuminata, il che è già un netto progresso, non fosse che si tratta evidentemente di una delle arterie della rete fognaria della città, con tutti i problemi olfattivi che questo comporta.
+
+Proseguendo lungo il largo condotto, ben presto Maya torna a sentire dei passi che la seguono, anche se questi suonano decisamente diversi da quelli uditi in precedenza.
+
+Con un po' di fortuna e una certa dose di consapevolezza "ultraterrena", Maya percepisce vagamente la figura che la sta seguendo e le si avventa addosso alla cieca:
+
+Dopo il placcaggio, quello che risulta l'essere più brutto che la ragazza abbia mai visto le si palesa di fronte, presentandosi come Aaron "Tequila" Bathrust, Nosferatu di casa da quelle parti.
+
+I due battibeccano amichevolmente per qualche minuto, e Maya tenta di convincere la nuova conoscenza a seguirla nella stanza del pentacolo con _Ascendente_: 
+
+Tequila tuttavia resiste all'effetto della disciplina, irritandosi leggermente e temendo un agguato ai suoi danni organizzato dall'inattesa ospite Brujah.
+
+Alla fine Maya, seguendo il "pressante" consiglio del Nosferatu, riesce finalmente a riemergere sotto il cielo di San Francisco.
+
+## Edgard Anderson
+
+Arrivata  velocemente a Casa Anderson alla disperata ricerca di una doccia, Maya ha l'ennesima amara sorpresa trovandoci suo padre Edgard, visibilmente preoccupato, alla vista dello stato pietoso in cui versa la figlia (che, oltre ad essere reduce da un viaggio nelle fogne, è ancora mostruosamente ferita al volto) cede immediatamente al panico.
+
+L' _Ascendente_ di Maya tuttavia questa volta ha successo, e la ragazza non ci pensa due volte spingendo il padre a tornare immediatamente in Alabama col primo aereo. 
+
+Spaesato, ma innaturalmente accondiscendente, Edgard obbedisce senza fare storie.
+
+Risolto almeno temporaneamente il problema, Maya decide di recarsi a casa di Zeno prima del letale arrivo dell'alba.
 
 <a href="1-maggio.html" class="button back">1 Maggio</a>
 <a href="3-maggio.html" class="button next">3 Maggio</a>
