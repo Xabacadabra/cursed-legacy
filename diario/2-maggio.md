@@ -153,10 +153,6 @@ Poco prima di coricarsi, Alice telefona al ex-fidanzato Luke (un capitano della 
 
 ## L'indagine di Paul
 
-<span class="image fit">
-<img src="http://www.verdiclub.net/images/verdi-night-500px.jpg" alt="">
-</span> 
-
 Paul è nell'Elysium: nota Nikolai alle prese con una telefonata, ed instaura una breve chiaccherata con Jacques.
 
 il toreador appare leggermente stressato, ma risponde normalmente alle domande di Paul, tranquillizzandolo riguardo il comportamento di Otto di poco prima e indicando le ragioni delle sue parole contro Alice motivate dalla caratteristica follia presente nel sangue malkavian.
@@ -178,6 +174,10 @@ Per ultimo, i rapporti tra il primogeno Tremere con la controversa figura di Del
 Ottenute le informazioni, Paul decide di recarsi al Verdi Club nella speranza d'incontrare il fratello Peter
 
 ## Verdi Club
+
+<span class="image fit">
+<img src="http://www.verdiclub.net/images/verdi-night-500px.jpg" alt="">
+</span> 
 
 Giunto sul posto, Paul lo trova stranamente deserto: nessuno al parcheggio, nessuna musica proveniente dal locale.
 
