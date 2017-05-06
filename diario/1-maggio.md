@@ -19,7 +19,6 @@ In seguito a varie peripezie, soprattutto grazie alle manovre di Zeno (e l'annoi
 	
 Nikolai ha anche offerto al gruppo di giovani vampiri una missione, specificando che eseguirla non è un obbligo ma inciderà parecchio sul loro futuro status nella Camarilla.
 		
-
 Maya (diffidente e preoccupata per sua madre) sembra intenzionata a tornarsene a casa, e Alice non perde occasione per provocarla.
 
 ## La missione
@@ -46,7 +45,7 @@ Seguono ulteriori discorsi sterili, con Peter che abbandona la dimora degli Ande
 
 Uscendo dall'Elysium, Paul e Robert vengono avvicinati da un misterioso Nativo Americano: lui e Robert sembrano sul punto di scontrarsi, ma alla fine il texano decide di seguirlo per scoprire qualcosa di più sul suo clan (in teoria).
 
-Intento Zeno (che non sa guidare decentemente) raggiunge Maya: quest'ultima lo aggiorna sugli ultimi eventi, quindi i due si recano al rifugio del Vampiro, dove Paul li sta già attendendo.
+Intanto Zeno (che non sa guidare decentemente) raggiunge Maya: quest'ultima lo aggiorna sugli ultimi eventi, quindi i due si recano al rifugio del Vampiro, dove Paul li sta già attendendo.
 
 ## Al rifugio
 
