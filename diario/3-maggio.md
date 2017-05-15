@@ -67,6 +67,44 @@ Mentre Alice si allontana per il suo appuntamento, Maya e Robert approfittano pe
 
 ## Alice e Luke
 
-game in progress
+Dopo un breve scambio di parole, Alice comprende che Luke è il fratello maggiore di Paul. 
+
+I due discutono in merito alla situazione di Villa Winchester, quindi la vampira seduce e aizza il poliziotto contro Otto, pretendendo di essere presente durante il suo arresto.
+
+Alice va a letto con la sua ex-fiamma, approfittando della foga sessuale di Luke per nutrirsene indisturbata, lasciandolo addormentato con un messaggio.
+
+## Alice al Vampire Club
+
+Desiderosa di scoprire di più in merito ai movimenti di Jacques e senza un posto dove andare, Alice si dirige al Vampire Club dove fa la conoscenza di Sebastian che, oltre a dimostrarsi prodigo d'informazioni, si rivela molto accomodante nei confronti della ragazza, concedendole uno dei suoi appartamenti di North Beach come rifugio temporaneo.
+
+## Russ Bulding
+
+Nikolai torna nell'Elysium, annunciando ai presenti che Zeno sarà "affidato" alle cure di Amelia, nella prigione di Alcatraz, e che entro qualche giorno il brujah ripartirà per eseguire la sua missione originaria.
+
+Interrogato nel merito, Nikolai spiega che la suddetta missione contempla il recupero di Naira, la sire di Robert.
+
+In particolare Nikolai evidenzia quanto Naira rischi una pena molto più "accomodante" a San Francisco rispetto a quella che le riserverebbero in altri domini della Camarilla.
+
+## Maya
+
+Maya decide d'interrogare nuovamente Glory in merito ad "Adramelech": 
+
+Quest'ultima spiega che si tratta di _"uno dei nomi"_, risultando al solito inesorabilmente criptica.
+
+Spazientita ma tenace, Maya riesce a convincere la malkavian a rivelarle di più, seguendola fuori dall'Elysium.
+
+## Paul e Robert
+
+Paul e Robert vanno a caccia, quindi si dirigono all'Elixir Club (quartier generale anarchico) dove hanno un primo piccolo scambio di battute con due vampiri: Margaret e Dirk. 
+
+Paul cerca notizie in merito a Duncan (colui che sembrerebbe essere il "capo" degli Anarchici a San Francisco) e i due vengono avvicinati da Mallory, esponente di spicco della fazione che, appena udito il nome di Zeno, impone al Brujah di allontanarsi.
+
+Paul riesce ad ottenere un compromesso, ma l'anarchica gli impone il silenzio, designando Robert come unico interlocutore anche grazie all'effetto suscitato dal nome di Naira (che sembra godere di una stima opposta a quella di Zeno).
+
+## Otto
+
+Otto va a caccia, quindi si reca nel suo appartamento: qui recupera i suoi risparmi e li sistema in un pacco da spedire a sua moglie assieme ad una lettera, dopodiché, ricavandolo da un vecchio armadio, riesce con successo a costruirsi un piccolo rifugio piuttosto sicuro per il riposo diurno.
+
+Poco dopo, Ivan bussa alla sua porta: il collega lo avverte dell'arresto di Dimitri e gli consiglia di lasciare immediatamente la città (come lui stesso ha intenzione di fare).
 
 <a href="2-maggio.html" class="button back">2 Maggio</a>
