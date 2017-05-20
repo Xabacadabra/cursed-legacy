@@ -75,6 +75,8 @@ Alice va a letto con la sua ex-fiamma, approfittando della foga sessuale di Luke
 
 ## Alice al Vampire Club
 
+<span class="image fit"><img src="http://nightclubpros.com/wp-content/uploads/2011/04/Rainbow_room.jpg" alt="" /></span>
+
 Desiderosa di scoprire di più in merito ai movimenti di Jacques e senza un posto dove andare, Alice si dirige al Vampire Club dove fa la conoscenza di Sebastian che, oltre a dimostrarsi prodigo d'informazioni, si rivela molto accomodante nei confronti della ragazza, concedendole uno dei suoi appartamenti di North Beach come rifugio temporaneo.
 
 ## Russ Bulding
@@ -93,7 +95,9 @@ Quest'ultima spiega che si tratta di _"uno dei nomi"_, risultando al solito ines
 
 Spazientita ma tenace, Maya riesce a convincere la malkavian a rivelarle di più, seguendola fuori dall'Elysium.
 
-## Paul e Robert
+## Paul e Robert all'Elixir Pub
+
+<span class="image fit"><img src="http://www.elixirsf.com/images/insideelixir50kb.jpg" alt="" /></span>
 
 Paul e Robert vanno a caccia, quindi si dirigono all'Elixir Club (quartier generale anarchico) dove hanno un primo piccolo scambio di battute con due vampiri: Margaret e Dirk. 
 
@@ -107,4 +111,13 @@ Otto va a caccia, quindi si reca nel suo appartamento: qui recupera i suoi rispa
 
 Poco dopo, Ivan bussa alla sua porta: il collega lo avverte dell'arresto di Dimitri e gli consiglia di lasciare immediatamente la città (come lui stesso ha intenzione di fare).
 
+## Duncan e gli Anarchici
+
+Dopo un certo impegno dipolmatico da parte di Robert, Mallory rivela l'estraneità degli Anarchici nell'omicidio di Benedict pur ammettendo di non poter parlare a nome di tutti i membri dell'organizzazione, quindi accosente di far incontrare i due giovani vampiri con Duncan.
+
+Quest'ultimo si rivela un interlocutore decisamente più accomodante, soprattuto per Paul, e conferma quanto detto da Mallory, congedandosi dando un messaggio a Robert.
+
+Paul e Robert si recano quindi ai rispettivi nuovi rifugi.
+
 <a href="2-maggio.html" class="button back">2 Maggio</a>
+<a href="4-maggio.html" class="button next">4 Maggio</a>
