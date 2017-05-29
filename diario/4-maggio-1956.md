@@ -57,4 +57,48 @@ Una volta tornati nella sala dell'Elysium, Nikolai consiglia al gruppo di seguir
 
 Paul manifesta anche il desiderio d'incontrare il misterioso Delfonso, e Nikolai gli raccomanda cautela.
 
-<a href="3-maggio.html" class="button back">3 Maggio</a>
+## L'appartamento di Benedict
+
+<span class="image fit">
+<img src="https://assets.hemmings.com/blog/wp-content/uploads//2015/12/SF1950s_1200-700x463.jpg" alt="" />
+</span>
+
+Il gruppo si reca nell'abitazione del defunto Tremere iniziando ad esplorarlo alla ricerca d'indizi.
+
+<span class="image fit"><img src="assets/images/appartamento-benedict.jpg" alt="" /></span>
+
+Alice, grazie al suo _olfatto sviluppato_ individua immediatamente una somma di odori particolarmente pungenti provenire dall'immensa dispensa del primogeno, e inizia le sue indagini lì.
+
+Otto, Paul e Robert si dedicano alla sala d'ingresso, quindi il Malkavian fa appello ad _Occhi del Caos_ per scoprire dov'è morto Benedict, individuando la stanza e ricevendo al contempo uno strano avvertimento: 
+
+> Fatti terribili accadranno il 28 Giugno.
+
+Otto manifesta la sua intuizione tra lo scetticismo generale, ma Robert lo segue comunque nella stanza di Benedict, mentre Paul si dedica all'esplorazione della cucina.
+
+Quest'ultimo, notando una saliera particolarmente pulita rispetto al resto degli ingredienti, rinviene al suo interno una minuscola chiave.
+
+Analogalmente, Otto e Robert notano nella piccola libreria nella stanza di Benedict due tomi con evidenti segni d'usura: _Naturalis historia_ di Plinio il Vecchio ed il _Malleus Maleficarum_ di Jacob Sprenger.
+
+Spostandoli, Robert rivela una piccola serratura posta sul retro della libreria.
+
+Paul nel frattempo ha raggiunto Alice, ed insieme i due aprono alcune delle scatole della dispensa, notandone numerose marchiate con alcuni ideogrammi cinesi.
+
+Una di queste rivela una strana polvere: Alice sembra essere sul punto di assaggiarla ma Paul la blocca di scatto, temendo per l'incolumità della ragazza.
+
+Un'altra scatola rivela una piccola urna, anche questa cosparsa di scritte in caratteri orientali: Paul la agita per tentare d'individuarne il contenuto, quindi la apre venendo abbagliato da una strana luce inquietante.
+
+Alice, osservandola, intravede per un istante il mostruoso volto di una specie di spettro dalle fattezze vagamente umanoidi.
+
+Dopo varie discussioni, il gruppo si ricongiunge e Robert sfrutta la chiave rinvenuta da Paul per aprire la serratura nascosta, rivelando un piccolo scompartimento contenente una maniglia: premendola, assecondandone il meccanismo, il gangrel sposta facilmente la libreria rivelando così l'ingresso di uno studio segreto.
+
+<span class="image fit"><img src="assets/images/appartamento-benedict-s.jpg" alt="" /></span>
+
+Lo studio contiene vari oggetti e strani ammenicoli, ma soprattuto un'immensa libreria con svariati libri, pergamene e teche contenenti scritti palesemente antichi scritti in lingue sconosciute.
+
+Alice, grazie alla sua _Memoria Fotografica_, individua abilmente un libro che porta sul dorso simboli identici a quelli ricalcati da Maya.
+
+Aprendolo, la toreador scopre che il tomo in realtà funge da contenitore per il piccolo frammento di una tavoletta decisamente antica, con alcuni simobli che Robert trova immediatamente riconducibili alla Stele di Nora, pietra arenaria costituente uno dei fondamenti dell'alfabeto fenicio. 
+
+[game in progress]
+
+<a href="3-maggio-1956.html" class="button back">3 Maggio</a>

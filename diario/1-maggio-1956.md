@@ -71,4 +71,4 @@ Rimasto a cavarsela da solo per volere di Yurok, Robert fa appello a tutte le su
 
 Otto scopre con sommo terrore che la dimora di Alice è la stessa Villa che qualche settimana prima aveva tentato di rapinare: Alice, memore della testimonianza di sua madre sulle origini slave dei ladri, cova un vago sospetto nei confronti del malkavian, ma quest'ultimo riesce a mostrarsi sufficentemente calmo evitando di tradirsi.
 
-<a href="2-maggio.html" class="button next">2 Maggio</a>
+<a href="2-maggio-1956.html" class="button next">2 Maggio</a>

@@ -9,7 +9,7 @@ exclude: true
 
 ## Alice all'Elysium
 
-Tornata all'Elysium dopo aver rimediato qualche abito durante il soggiorno trascorso  a Modesto, Alice ha modo di osservare alcune scene interessanti, registrandole mentalmente grazie alla sua _Memoria Fotografica_:
+Tornata all'Elysium dopo aver rimediato qualche abito durante il soggiorno trascorso a Modesto, Alice ha modo di osservare alcune scene interessanti, registrandole mentalmente grazie alla sua _Memoria Fotografica_:
 
 Jacques, Nikolai e Glory discutono con tre misteriosi vampiri: il leader del suddetto terzetto, in particolare (un vampiro dall'aspetto altero e glaciale) menziona un misterioso "ospite tedesco", irritando la Malkavian.
 
@@ -119,5 +119,47 @@ Quest'ultimo si rivela un interlocutore decisamente più accomodante, soprattuto
 
 Paul e Robert si recano quindi ai rispettivi nuovi rifugi.
 
-<a href="2-maggio.html" class="button back">2 Maggio</a>
-<a href="4-maggio.html" class="button next">4 Maggio</a>
+## Maya e Glory
+
+<span class="image fit"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Buick_30-40_Series_40_Cabriolet_Glaser_1930.jpg" alt="" /></span>
+
+Maya accompagna Glory in un appartamento di Marina Boulevard guidando, dopo qualche perplessità iniziale, la vecchia automobile della Malkavian.
+
+Qui Glory disegna un pentacolo e degli strani simboli sul tavolino del salotto, andando per qualche secondo in trance: le sue spiegazioni risultano ulteriori frasi sconnesse e pressoché incomprensibili per la povera Maya.
+
+> Benedict era il Primogeno Tremere, ma non lo era! Forse non lo sapeva ?
+
+Dopo qualche fase concitata a seguito di alcune azioni della sempre più esasperata Glory, quest'ultima scoppia in lacrime (di sangue) e viene più o meno tranquillizzata da Maya, sempre più a disagio.
+
+Contemporaneamente, qualcuno suona insistentemente il campanello: le due vampire tentano di ignorare la cosa, ma all'ingresso sembra esserci un poliziotto e perciò, dopo aver cancellato alla meglio le tracce di sangue ed aver indossato un grembiule trovato in cucina, Maya apre la porta.
+
+All'ingresso c'è un agente di polizia evidentemente sovrappeso e dall'aria aggressiva, che minaccia immediatamente le due donne.
+
+Maya tenta di calmarlo con _Ascendente_, ma quest'ultimo sembra esserne immune: la situazione inizia a farsi tesa e, schivando un colpo diretto ai suoi danni, Maya scaraventa l'uomo dall'altro lato della stanza, fuggendo via con Glory al seguito.
+
+## La Proposta di Amelia
+
+Maya è intenzionata a tornare nella "stanza degli orrori" assieme a Glory, ma quest'ultima sembra piuttosto restia a passare per le fogne senza il permesso di Amelia, la primogena Nosferatu.
+
+Le due quindi, dopo una breve sosta a casa Anderson, partono alla volta di Alcatraz dove la presenza di Glory permette di raggiungere l'orribile vampira senza intoppi.
+
+Amelia si dimostra affabile ed incuriosita dalle indagini di Maya, offrendole aiuto per trovare sua madre in cambio della firma di un contratto in cui Maya s'impegna a spiare le azioni del gruppo di Alice, Paul, Otto e Robert.
+
+Maya è incerta e, essendo le luci dell'alba non troppo lontane, accetta l'ospitalità della Nosferatu rimandando la decisione all'indomani notte.
+
+Allo stesso tempo, la ragazza chiede ed ottiene il permesso d'incontrare Zeno.
+
+## Zeno 
+
+Maya scopre con un certo disagio che il suo Sire versa in pessime condizioni: 
+
+Conta numerose ferite inferte da un'arma da taglio, e qualcuno ha letteralmente _estratto_ i suoi occhi dalle palpebre.
+
+I due discutono un po', e Maya apprende che Zeno è ridotto così poiché reduce da uno scontro con Nikolai...in merito al contratto di Amelia, Zeno si limita ad affermare che è noto che i Nosferatu posseggono un numero spropositato d'informazioni...ma che, come la stessa Maya aveva specificato, il ruolo della spia non è certo uno dei più apprezzabili.
+
+Zeno conclude spiegando che, una volta guarito dalle tremende ferite, ripartirà alla ricerca di Naira lasciando la città.
+
+<span class="image fit"><img src="hhttps://www.flickr.com/photos/30649191@N00/9156462640.jpg" alt="" /></span>
+
+<a href="2-maggio-1956.html" class="button back">2 Maggio</a>
+<a href="4-maggio-1956.html" class="button next">4 Maggio</a>
