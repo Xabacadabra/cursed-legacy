@@ -227,5 +227,6 @@ Spaesato, ma innaturalmente accondiscendente, Edgard obbedisce senza fare storie
 
 Risolto almeno temporaneamente il problema, Maya decide di recarsi a casa di Zeno prima del letale arrivo dell'alba.
 
+<a href="http://xabacadabra.com/cursed-legacy/diario" class="button">Diario</a>
 <a href="1-maggio-1956.html" class="button back">1 Maggio</a>
 <a href="3-maggio-1956.html" class="button next">3 Maggio</a>

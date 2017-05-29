@@ -151,6 +151,8 @@ Allo stesso tempo, la ragazza chiede ed ottiene il permesso d'incontrare Zeno.
 
 ## Zeno 
 
+<span class="image fit"><img src="https://www.flickr.com/photos/30649191@N00/9156462640.jpg" alt="" /></span>
+
 Maya scopre con un certo disagio che il suo Sire versa in pessime condizioni: 
 
 Conta numerose ferite inferte da un'arma da taglio, e qualcuno ha letteralmente _estratto_ i suoi occhi dalle palpebre.
@@ -159,7 +161,6 @@ I due discutono un po', e Maya apprende che Zeno è ridotto così poiché reduce
 
 Zeno conclude spiegando che, una volta guarito dalle tremende ferite, ripartirà alla ricerca di Naira lasciando la città.
 
-<span class="image fit"><img src="hhttps://www.flickr.com/photos/30649191@N00/9156462640.jpg" alt="" /></span>
-
+<a href="http://xabacadabra.com/cursed-legacy/diario" class="button">Diario</a>
 <a href="2-maggio-1956.html" class="button back">2 Maggio</a>
 <a href="4-maggio-1956.html" class="button next">4 Maggio</a>
