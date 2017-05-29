@@ -151,8 +151,6 @@ Allo stesso tempo, la ragazza chiede ed ottiene il permesso d'incontrare Zeno.
 
 ## Zeno 
 
-<span class="image fit"><img src="https://www.flickr.com/photos/30649191@N00/9156462640.jpg" alt="" /></span>
-
 Maya scopre con un certo disagio che il suo Sire versa in pessime condizioni: 
 
 Conta numerose ferite inferte da un'arma da taglio, e qualcuno ha letteralmente _estratto_ i suoi occhi dalle palpebre.

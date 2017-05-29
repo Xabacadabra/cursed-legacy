@@ -65,7 +65,7 @@ Paul manifesta anche il desiderio d'incontrare il misterioso Delfonso, e Nikolai
 
 Il gruppo si reca nell'abitazione del defunto Tremere iniziando ad esplorarlo alla ricerca d'indizi.
 
-<span class="image fit"><img src="assets/images/appartamento-benedict.png" alt="" /></span>
+<span class="image fit"><img src="../assets/images/appartamento-benedict.png" alt="" /></span>
 
 Alice, grazie al suo _olfatto sviluppato_ individua immediatamente una somma di odori particolarmente pungenti provenire dall'immensa dispensa del primogeno, e inizia le sue indagini lì.
 
@@ -91,7 +91,7 @@ Alice, osservandola, intravede per un istante il mostruoso volto di una specie d
 
 Dopo varie discussioni, il gruppo si ricongiunge e Robert sfrutta la chiave rinvenuta da Paul per aprire la serratura nascosta, rivelando un piccolo scompartimento contenente una maniglia: premendola, assecondandone il meccanismo, il gangrel sposta facilmente la libreria rivelando così l'ingresso di uno studio segreto.
 
-<span class="image fit"><img src="assets/images/appartamento-benedict-s.png" alt="" /></span>
+<span class="image fit"><img src="../assets/images/appartamento-benedict-s.png" alt="" /></span>
 
 Lo studio contiene vari oggetti e strani ammenicoli, ma soprattuto un'immensa libreria con svariati libri, pergamene e teche contenenti scritti palesemente antichi scritti in lingue sconosciute.
 
