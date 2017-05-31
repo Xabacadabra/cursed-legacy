@@ -19,9 +19,10 @@ nav-menu: true
 		<div class="4u"><span class="image fit"><img src="assets/images/amelia.jpg" alt="" /></span><h3>Amelia</h3></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/yurok.jpg" alt="" /></span><h3>Yurok</h3></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/nash.jpg" alt="" /></span><h3>Nash</h3></div>
-               <!-- Break -->
+        <!-- Break -->
 		<div class="4u"><span class="image fit"><img src="assets/images/sebastian.jpg" alt="" /></span><h3>Sebastian</h3></div>
         <div class="4u"><span class="image fit"><img src="assets/images/vibeke.jpg" alt="" /></span><h3>Vibeke</h3></div>
         <div class="4u"><span class="image fit"><img src="assets/images/delfonso.jpg" alt="" /></span><h3>Delfonso</h3></div>
+        <!-- Break -->
 	</div>
 </div>
