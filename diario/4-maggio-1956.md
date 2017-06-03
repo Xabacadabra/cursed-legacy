@@ -99,7 +99,87 @@ Alice, grazie alla sua _Memoria Fotografica_, individua abilmente un libro che p
 
 Aprendolo, la toreador scopre che il tomo in realtà funge da contenitore per il piccolo frammento di una tavoletta decisamente antica, con alcuni simobli che Robert trova immediatamente riconducibili alla Stele di Nora, pietra arenaria costituente uno dei fondamenti dell'alfabeto fenicio. 
 
-[game in progress]
+Paul telefona all'Elysium avvertendo Nikolai delle scoperte effettuate, quindi manda avanti gli altri recandosi a Mission Dolores, alla ricerca del misterioso Delfonso.
+
+## Maya 
+
+Maya decide di rifiutare l'offerta di Amelia (irritando livemente la Nosferatu), quest'ultima le conferma che Glory è già ripartita verso l'Elysium e le garantisce un passaggio sul prossimo traghetto per San Francisco.
+
+Tornata a North Beach, Maya si reca all'Elysium con la vecchia automobile di Glory (rimasta nello stesso punto dove l'avevano parcheggiata la sera prima).
+
+Giunta nei sotterranei del Russ Bulding, nota Nikolai intento a discutere in tedesco con un individuo a lei sconosciuto.
+
+## Il Rapporto
+
+Poco dopo nell'Elysium giungono anche Alice, Otto e Robert, e Maya li approccia rendendoli partecipi dello stato pietoso in cui versa Zeno.
+
+Dopodiché, Robert interrompe la conversazione tra Nikolai ed il misterioso tedesco, mostrando al siniscalco il frammento della tavoletta rinvenuto nella casa di Benedict.
+
+Otto, Alice e lo stesso Robert notano però che il frammento appare diverso, il simbolo ivi rappresentato inesorabilmente danneggiato.
+
+L'interlocutore di Nikolai (presentato dallo stesso al gruppo come Frederik, un vampiro appartenente al ramo europeo del clan Tremere), si offre di esaminare il frammento, ma Nikolai non da il suo conosenso poiché è una decisione che preferirebbe dirimere assieme al Principe.
+
+Tra lo stupore generale, Railsback compare dal nulla dietro richiesta di Nikolai e offre un breve resoconto sui movimenti effettuati dal gruppo durante l'indagine a casa di Benedict.
+
+## Paul a Mission Dolores
+
+<span class="image fit"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/San_Francisco_de_Asis--Mission_Dolores.JPG/800px-San_Francisco_de_Asis--Mission_Dolores.JPG" alt="" /></span>
+
+Paul nel frattempo raggiunge il complesso religioso che a detta di Sebastian dovrebbe fungere da dimora per Delfonso.
+
+Dopo un nulla di fatto con uno dei monaci all'ingresso, il brujah perlustra il cimitero e scopre una singola lapide dall'aspetto palesemente meno curato delle altre:
+
+scoprendo una specie di binario metallico posto tra essa e la tomba, Paul riesce a sdradicare via quest'ultima rivelando delle scale.
+
+Ritrovandosi nel buio più totale, è in grado di farsi luce con un accendino sconfiggendo il breve sussulto di terrore suscitato dalla sua fiammella.
+
+Proseguendo lungo quella che si rivela una specie di caverna, Paul chiama ad alta voce il nome di Delfonso avvertendo della sua presenza, specificando di trovarsi lì per conto del Principe Vannevar.
+
+Nell'oscurità tuttavia l'unica "risposta" che ottiene è uno strano rumore di catene e, nel tentativo di avanzare esplorando i vari anfratti del cunicolo, il brujah viene improvvisamente assaltato da un'inquietante creatura che lo azzanna ad una gamba.
+
+<span class="image fit"><img src="http://img13.deviantart.net/3d49/i/2009/028/6/6/screaming_voldo_by_bird_of_ice.jpg" alt="" /></span>
+
+Grazie alla sua forza sovrannaturale, Paul contrattacca immediatamente _frantumando_ di netto il cranio del pietoso essere.
+
+Continuando lungo lo stretto cunicolo che pare progressivamente più artificiale, Paul giunge in uno stretto corridoio dall'aspetto vagamente settecentesco.
+
+Intravedendo una porta alla sua fine, Paul percepisce distintamente aldilà di essa quelle che sembrano grida femminili alternate a delle violente frustate. 
+
+Prova nuovamente ad invocare il nome di Delfonso, e questa volta ottiene un risultato:
+
+Urla e le frustate s'interrompono, e dopo qualche momento l'uscio viene aperto.
+
+<span class="image fit"><img src="https://media-cdn.tripadvisor.com/media/photo-s/05/54/ea/cb/antigua-cava-old-cellar.jpg" alt="" /></span>
+
+Delfonso in persona accoglie Paul in una specie di cantina, discutendo con lui mostranodsi tra l'incuriosito ed il diffidente.
+
+Paul spiega i dettagli dell'omicidio e la situazione tra Anarchici e Camarilla, ma è solo menzionando il nome di Benedict che Delfonso mostra un acceso (e violento)interesse: 
+
+Offre da bere del sangue "imbottigliato" all'ospite, quindi parte impulsivamente verso l'Elysium.
+
+Paul lo segue, tentando con successo di mitigarne la furia omicida, tuttavia la foga di Delfonso non si placa e parte alla volta dell'Elysium con una carrozza trainata da un gigantesco cavallo.
+
+Paul, sconsolato, lo segue in moto.
+
+## Fermare Delfonso
+
+Paul trova una cabina telefonica e chiama nuovamente il Russ Bulding, avvisando Nikolai dell'arrivo di Delfonso (e soprattutto del suo mezzo di trasporto _non proprio_ ortodosso), quindi riesce ad allontanare con successo alcuni dei cittadini più preoccupati dal trambusto sfruttando _Ascendente_.
+
+Nikolai incarica immediatamente Railsback, Robert, Alice, Maya e Otto di fermare Delfonso prima che le sue intemperanze portino a una violazione della Masquerade, esortandoli a scortarlo all'Elysium nel modo più tranquillo possibile.
+
+Il gruppo, dopo che Railsback accoglie il suggerimento di Alice, tenta di formare una specie di posto di blocco con le proprie auto: Robert preferisce tenersene alla larga mentre Maya sale nell'auto di Alice. 
+
+Quest'ultima e Otto finiscono per scontrarsi, formando un incidente (in cui l'auto di Otto ha la peggio).
+
+La corsa di Delfonso tuttavia è solo rallentata: ritrovandosi con il passaggio impossibilitato per la sua carrozza, il vecchio vampiro salta immediatamente in groppa al cavallo proseguendo al trotto a tutta velocità.
+
+Alice tenta di placare la bestia facendo appello alle sue esperienze d'equitazione, ma fallisce e rischia di venirne travolta: 
+
+Ne esce illesa solo grazie al provvidenziale intervento di Robert, che grazie alla propria destrezza sovrannaturale riesce a saltare in sella al cavallo piombando alle spalle di Delfonso, placandone così la corsa.
+
+Delfonso sembra pronto alla battaglia, ma fortunatamente Railsback riesce a tranquillizzarlo convincendolo a salire nella sua auto.
+
+Il gruppo quindi torna verso l'Elysium, meno Robert che chiede (ed ottiene) il permesso di rientrare nel suo appartamento dallo Sceriffo. 
 
 <a href="http://xabacadabra.com/cursed-legacy/diario" class="button">Diario</a>
 <a href="3-maggio-1956.html" class="button back">3 Maggio</a>

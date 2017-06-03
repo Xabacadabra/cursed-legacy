@@ -139,7 +139,9 @@ Maya tenta di calmarlo con _Ascendente_, ma quest'ultimo sembra esserne immune: 
 
 ## La Proposta di Amelia
 
-Maya è intenzionata a tornare nella "stanza degli orrori" assieme a Glory, ma quest'ultima sembra piuttosto restia a passare per le fogne senza il permesso di Amelia, la primogena Nosferatu.
+Glory, grata a Maya per l'aiuto, mostra a quest'ultima lo strano frammento di una tavoletta molto antica.
+
+Dal canto suo, Maya è intenzionata a tornare nella "stanza degli orrori" assieme a Glory, ma quest'ultima sembra piuttosto restia a passare per le fogne senza il permesso di Amelia, la primogena Nosferatu.
 
 Le due quindi, dopo una breve sosta a casa Anderson, partono alla volta di Alcatraz dove la presenza di Glory permette di raggiungere l'orribile vampira senza intoppi.
 
