@@ -179,7 +179,36 @@ Ne esce illesa solo grazie al provvidenziale intervento di Robert, che grazie al
 
 Delfonso sembra pronto alla battaglia, ma fortunatamente Railsback riesce a tranquillizzarlo convincendolo a salire nella sua auto.
 
-Il gruppo quindi torna verso l'Elysium, meno Robert che chiede (ed ottiene) il permesso di rientrare nel suo appartamento dallo Sceriffo. 
+Il gruppo quindi torna verso l'Elysium, meno Robert che chiede (ed ottiene) il permesso di rientrare nel suo appartamento dallo Sceriffo.
+
+## Elysium
+
+Maya e Alice arrivano prima e decidono di entrare subito notando la sola presenza di Nikolai e l'assenza di Delfonso, allontanatosi precedentemente per parlare con il Principe.
+
+Sopraggiungono poi Otto e Paul che notano la stessa cosa.
+
+Alice chiede a Nikolai indizi su dove poter trovare Jacques, allontanatosi senza un reale motivo, ma non riceve le informazioni che si aspettava. 
+
+Maya, assente nel momento in cui è stata ritrovata la tavoletta, viene aggiornata da Alice sul fatto che questa è stata ritrovata all'interno di un libro su cui erano incisi simboli simili a quelli che Maya stessa aveva visto nella camera sotterranea. 
+
+Quest'ultima poi informa Nikolai sul fatto che Glory possedeva un pezzo di tavoletta con inciso sopra un altro simbolo, simile a quello ritrovato dal resto del gruppo.
+
+Successivamente Paul, chiede informazioni sullo stato della tavoletta, danneggiata in modo misterioso, e chiede di poterla visionare..Alice si intromette balbettando la possibilità che questa sia stata danneggiata da qualcosa che non appartiene a questo mondo e che non vuole che questa venga decifrata. 
+
+Paul infatti informa Nikolai che nell'appartamento di Benedict ha aperto un urna dalla quale è uscita una forte luce, uno spirito a detta di Alice, provocando preoccupazione in Nikolai il quale si allontana per fare una telefonata. 
+
+Il gruppo lasciato da solo, parla sul collaborare o meno per le faccende private ma gli animi si scaldano nel momento in cui Otto insulta pesantemente Maya la quale gli da uno schiaffo, chiede poi ad Alice se le va bene collaborare con chi le ha ucciso la madre provocando confusione nella Toreador, la quale è convinta di non aver mai avuto i genitori. 
+
+Maya e Paul confusi, capiscono che Alice non sta mentendo e che c'è qualcosa di strano sotto. 
+
+I giovani vampiri vengono poi avvicinati dal tedesco Frederik, il quale chiede collaborazione..vorrebbe ricevere informazioni complete sulle indagini offrendo in cambio il suo aiuto per le faccende private di ognuno. 
+
+Otto si sente rassicurato da questo individuo mentre gli altri percepiscono di non potersi fidare al 100%. Nikolai, ritornato dopo la telefonata, dice al gruppo che per il momento non è il caso di preoccuparsi per quella faccenda.
+
+Quest'ultimo poi da ai vampiri una pista per cercare di sapere di più sulla tavoletta..andare a cercare un certo Iwo, umano di origini giapponesi amico di Vannevar, il quale sembra essere un esperto di esoterismo.
+
+Essendo l'ora molto tarda, Otto chiede a Nikolai un posto più sicuro di casa sua dove poter dormire e ottiene un comodissimo sgabbuzzino. Paul si dirige verso la casa che Zeno gli ha procurato mentre Alice e Maya vengono sistemate in un appartamento nel Russ Building. 
 
 <a href="http://xabacadabra.com/cursed-legacy/diario" class="button">Diario</a>
 <a href="3-maggio-1956.html" class="button back">3 Maggio</a>
+<a href="5-maggio-1956.html" class="button next">5 Maggio</a>
