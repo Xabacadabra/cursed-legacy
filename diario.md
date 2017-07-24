@@ -104,3 +104,5 @@ nav-menu: true
 <a href="/cursed-legacy/diario/2-maggio-1956.html" class="button">2 Maggio 1956</a>
 <a href="/cursed-legacy/diario/3-maggio-1956.html" class="button">3 Maggio 1956</a>
 <a href="/cursed-legacy/diario/4-maggio-1956.html" class="button">4 Maggio 1956</a>
+<a href="/cursed-legacy/diario/5-maggio-1956.html" class="button">5 Maggio 1956</a>
+<a href="/cursed-legacy/diario/6-maggio-1956.html" class="button">6 Maggio 1956</a>
