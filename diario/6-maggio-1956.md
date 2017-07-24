@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "5 Maggio 1956"
-description: cinque maggio 1956
+title: "6 Maggio 1956"
+description: sei maggio 1956
 image: assets/images/timeline.jpg
 nav-menu: true
 exclude: true
