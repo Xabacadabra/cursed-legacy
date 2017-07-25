@@ -31,6 +31,18 @@ Paul uscito dall'incontro con Sebastian si dirige verso Alcatraz dove incontra, 
 
 Incontra poi Zeno ancora rinchiuso in una cella e ancora malconcio e gli chiede informazioni su come informare un umano della loro condizione senza che questi lo dica in giro e Zeno suggerisce la trasformazione in ghoul. Uscito dal carcere Paul si dirige verso il Verdi Club.
 
+## Iwo
+
+Il gruppo arriva davanti all'abitazione di Iwo e suona al campanello senza ottenere risposta. Robert con i suoi sensi sviluppati sente qualcuno parlare giapponese e una voce strana non appartenente a questo mondo. Suonano il campanello una seconda volta e questa volta aprono la porta, Alice parla a nome del gruppo e Iwo colpito li fa accomodare in casa ma Alice rimane qualche secondo imbambolata per la bellezza dell'abitazione.
+
+Chiedono poi a Iwo informazioni sui simboli presenti sulla tavoletta e quest'ultimo li informa che si tratta di fenicio e che quei simboli erano legati ad alcuni sacrifici fermati poi da un certo Syrano, un precedente Principe morto durante il terremoto di San Francisco del 1906. Robert è convinto che Iwo non sia sincero quindi usa intimidire avendo successo.  Gli chiede di chi fosse la voce sentita poco prima e Iwo impaurito risponde che apparteneva ad esperimenti che conduceva per parlare con gli spiriti e offre tutto il suo appoggio a Robert. Poco dopo il gruppo sente avvicinarsi le sirene della polizia e preoccupato  esce da una porta secondaria. Da un auto esce Beibo con l'intenzione di arrestare Otto il quale scappa via seminando i poliziotti. Alice sorpresa chiede spiegazioni a Beibo il quale afferma che Otto è un criminale apprestandosi a seguirlo in auto, Alice chiede e ottiene senza troppa fatica di andare con lui. Otto riesce ad arrivare a piedi al Russ building e si precipita preoccupato da Nikolai per ottenere supporto ma ottiene l'effetto contrario innervosendo parecchio Nikolai il quale gli ordina di chiudersi nello sgabuzzino e non farsi più sentire né vedere. Beibo nel frattempo guida velocemente per le strade di San Francisco e chiede poi ad Alice perché si trovasse con un gruppo così strano e con un criminale e Alice mentendo gli spiega che erano colleghi di lavoro. Incontratosi con alcuni colleghi per sapere di Otto, Alice rimane sola in auto e trovando il portafoglio di Beibo trova una foto di famiglia con moglie e figlio. Furiosa affronta l'uomo e scende dall'auto intenzionata ad andarsene ma Beibo la continua a seguire borbottando scuse e chiedendo di parlare così la toreador lo segue di nuovo in auto per farsi portare all'appartamento che Beibo le ha trovato. 
+
+## Alice Prigioniera
+
+Rimasta sola Alice, sempre più confusa sul suo passato, si dirige in biblioteca e trova un articolo sull'esplosione di villa Winchester e su un certo Thomas Winchester, primario dell'ospedale. Si dirige poi a queste rovine trovando tra le macerie una sua foto. Sente poi la voce familiare di una  guardia uccisa da alcuni polacchi la quale  l'avverte che cose terribili stanno per accadere. 
+
+Nonostante l'ora tarda Alice cerca risposte così si avvia verso Alcatraz. Viene accolta da Paul Madigan, direttore di Alcatraz e viene scortata all'interno della struttura. Entrata in una stanza viene chiusa dentro a quella che in realtà si rivela essere una cella e presa dal panico per la presenza di insetti Alice comincia a gridare ma non ottiene nessuna risposta.
+
 ## Sotto il Verdi Club
 
 Robert, rimasto solo con Maya, offre alla ragazza il suo aiuto per quanto riguarda il ritrovamento di sua madre e Maya accetta. 
