@@ -7,6 +7,14 @@ nav-menu: true
 exclude: true
 ---
 
+## Elysium
+
+Paul, Robert e Maya si dirigono al Russ building dove si uniscono con Otto che li stava aspettando e vengono accolti da Nikolai il quale viene informato sui fatti appresi da Iwo e fornisce al gruppo maggiori dettagli. 
+
+Vengono a scoprire che gli uomini di Cyrano erano i "corvi d'Avorio" , coterie formata da Zeno, il diacono, Railsback, Naira e Jacques trovando strano il fatto che 50 anni dopo, i loro infanti siano riuniti in una coterie che ha il compito di indagare su fatto simili a quelli avvenuti poco prima del terremoto del 1906. 
+
+Nel '44 poi durante la rivolta McNeil i corvi d'Avorio si sono separati con Zeno e Naira a capo degli anarchici. I giovani vampiri hanno così 2 compiti importanti: andare da questo Bugsy prestando molta attenzione essendo un Giovanni e potenzialmente pericoloso, e andare alla ricerca di Glory, scomparsa ormai da alcuni giorni.
+
 Dopo diverse discussioni il gruppo si divide, Maya, Robert e Paul decidono di andare all'albergo dove dovrebbe alloggiare Bugsy e Otto ad Alcatraz ad incontrare Amelia riguardo la sparizione di Glory. 
 Otto prima di partire decide di chiamare Alcatraz per avvisare il direttore Paul Madigan del suo arrivo così facendo ottiene il passaggio diretto per il traghetto. Arrivato al carcere si incontra con il vecchio direttore il quale chiede delucidazioni sul motivo della visita, Otto spazientito rivela che deve parlare di Gory ad Amelia e non volendo aspettare viene accompagnato subito dalla Nosferatu. Quest'ultima afferma che Glory ha lasciato la struttura insieme a Maya e che quindi sia lei ad averla vista per l'ultima volta spingendo molto il sospetto verso Maya. Otto poi afferma che è importante ritrovare Glory perché sospetta che la sua sparizione c'entri con i fatti terribili che accadranno il 28 giugno e rassicurato da Amelia racconta nel dettaglio la visione che aveva avuto nell'appartamento di Benedicht.
 Confuso per le versioni contrastanti di Amelia e Maya, Otto si dirige verso il traghetto ma prima di imbarcarsi chiede a una guardia se giorni prima avesse visto 2 donne prendere il traghetto, questo afferma di aver visto solo una donna e la descrizione corrisponde a quella di Glory.

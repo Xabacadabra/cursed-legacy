@@ -63,6 +63,20 @@ Non avendo ancora trovato una via di uscita tornano indietro e prendono l'altra 
 
 Dal nulla spuntano alcuni Nosferatu che sferrano un attacco a sorpresa, schivato da tutti meno che da Maya..questi vogliono ucciderli e definiscono Jenna come zombie.
 
+## Alice
+
+Alice rinchiusa in una cella riesce, tramite un buco nel muro, a parlare con Zeno chiuso nella cella affianco alla sua, e gli chiede aiuto. Zeno potendo uscire dalla cella promette ad Alice di attivarsi per farla uscire. Poco dopo, sentendo la porta della sua cella aprirsi, Alice tenta di fuggire ma viene bloccata da un vampiro molto brutto che la colpisce e la butta a terra. Costui non intenzionato a farla uscire le chiede di dirgli tutto quello che sa sui cosiddetti "corvi d'avorio" ma lei non sa proprio rispondere e  spazientito il vampiro tenta di colpirla nuovamente ma Alice riesce ad evitare il colpo.  La Toreador tenta l'approccio seduttivo per poter uscire e parlare con Amelia ma molto goffamente fallisce e spaventata dal nosferatu si rannicchia in un angolo. La notte seguente sentendo la porta aprirsi, tenta nuovamente la fuga ma anche questa volta viene bloccata dallo stesso vampiro che gli pone la stessa domanda della notte precedente. Non sapendo rispondere Alice viene ancora picchiata e successivamente tenta di convincere il nosferatu di essere estranea ai fatti e costui si congeda dicendo che ne avrebbe parlato con Amelia. Con gli occhi del cuore la Toreador percepisce una presenza maschile che piange nella cella affianco alla sua e riesce a comprendere che è Peter de rosa, il fratello scomparso di Paul e Luke.
+
+## Otto
+
+Otto uscito dal suo ripostiglio, si ritrova davanti un vampiro di nome Honerius, il quale vuole diventare il nuovo primogeno Tremere e convince Otto sulla cattiva amministrazione della camarilla, Nikolai e Principe compresi. Otto si dimostra desideroso di ritrovare Glory, scomparsa da diversi giorni e ottiene l'appoggio di Honerius. Rimane poi in attesa dell'arrivo dei compagni dopo aver risposto al telefono di Nikolai, momentaneamente assente, e aver parlato con Paul.
+
+## Paul Maya e Robert
+
+Paul, Maya e Robert discutono con diversi nosferatu sulla sorte di Jenna e vengono a scoprire che questa è ormai morta e che è  stata trasformata in uno zombie da un Giovanni. Maya, messa alle strette, chiede a Robert di uccidere lui Jenna non volendo farlo fare ad altri vampiri, lui accetta ma non fa un lavoro molto pulito e si sporca di molto sangue. Maya controlla il corpo senza vita dell'amica ma si sporca anche lei di sangue trovando però una specie di documento che purtroppo si sgretola una volta preso in mano. Saranno poi i nosferatu ad occuparsi del corpo dell'amica di Maya poiché il gruppo è impossibilitato a portarlo con sé. Paul chiede maggiori informazioni su questi Giovanni e dove poterli trovare perché forse legati alla scomparsa di suo fratello e scopre che sia Rotstein sia Bugsy sono 2 Giovanni e che non fanno parte della Camarilla.
+
+Usciti dalle fogne i 3 vampiri vanno a ripulirsi e a passare il giorno a casa di Robert.
+
 <a href="http://xabacadabra.com/cursed-legacy/diario" class="button">Diario</a>
 <a href="4-maggio-1956.html" class="button back">4 Maggio</a>
 <a href="6-maggio-1956.html" class="button next">6 Maggio</a>
