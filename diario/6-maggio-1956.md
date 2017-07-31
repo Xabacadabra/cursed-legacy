@@ -73,3 +73,4 @@ Decide di andare in Elysium e di consultarsi con Honerius su quanto scoperto nel
 
 <a href="http://xabacadabra.com/cursed-legacy/diario" class="button">Diario</a>
 <a href="5-maggio-1956.html" class="button back">5 Maggio</a>
+<a href="5-maggio-1956.html" class="button next">7 Maggio</a>
