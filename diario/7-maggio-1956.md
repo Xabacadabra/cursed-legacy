@@ -55,7 +55,43 @@ Quest'ultimo, intuendo la mancanza di controllo della ragazza sulle proprie azio
 
 Maya torna immediatamente in se e, contemporaneamente, i due vengono raggiunti da Paul: quest'ultimo è furioso e, incurante delle scuse proferite da Robert, se ne va.
 
-Robert e Maya tentano di fare il possibile per occultare il corpo di Bugsy che ora versa in un avanzato stato di decomposizione (essendo, nei fatti, un cadavere di circa 9 anni), ma la loro scarsa dimestichezza porta Robert a contattare lo Sceriffo Railsback, che in breve tempo si presenta alla sua porta trascinando via con se il corpo di Bugsy.   
+Robert e Maya tentano di fare il possibile per occultare il corpo di Bugsy che ora versa in un avanzato stato di decomposizione (essendo, nei fatti, un cadavere di circa 9 anni), ma la loro scarsa dimestichezza porta Robert a contattare lo Sceriffo Railsback, che in breve tempo si presenta alla sua porta trascinando via con se il corpo di Bugsy.
+
+## Maya Tartaruga Ninja
+
+Arriva al Verdi Club, è vicina l'ora della chiusura. Finge di andare in bagno per introdursi nell'ufficio di Joe Masseria di nascosto.
+Poco dopo essere entrata nell'ufficio, [fallisce un facile tiro di percezione] c'è un blackout. La stanza rimane completamente al buio, e Maya si sente afferrare una spalla...
+
+Maya riesce a liberarsi con agilità [centomila successi], ma resta sempre nell'oscurità e non riesce quindi a vedere chi l'ha aggredita.
+
+Chiede "Chi sei?"
+
+Nessuna risposta! Ma in compenso l'aggressore sfonda la porta dell'ufficio per scappare. Maya all'inseguimento, ma non riesce a vedere il fuggitivo (sta usando Oscurazione?).
+[centomila successi di consapevolezza] Maya riesce a vedere per un attimo un essere molto brutto che sta fuggendo: è Tequila, il Nosferatu delle fogne...
+
+Maya lo chiama a gran voce, ma Tequila fugge via e si rifugia nelle fogne, sempre seguito da Maya.
+
+Nelle fogne, Maya e Tequila discutono. Ciascuno vuole sapere cosa sta tramando l'altro, ma nessuno si scuce. 
+
+"Che ci facevi lì?"
+"Che facevi tu! Perché mi insegui?"
+"Perché mi hai afferrato?"
+... e così via
+
+Maya esce dallo stallo [tanti successi di Persuasione+Empatia], spiegando che era lì per cercare risposte sulla sua amica Jenna. Racconta che Bugsy l'ha resa una zombie, e che alcuni Nosferatu l'hanno portata via... Ma non fa menzione di Paul e Robert.
+
+Tequila si dimostra comprensivo e chiede come potrebbe aiutarla. Maya chiede un po' di dettagli sulla vicenda, ma Tequila ha poco da raccontare sui Nosferatu che hanno portato via Jenna, tranne che probabilmente lavorano per Amelia, e Tequila no...
+
+Tequila spiega che un uso possibile dello zombie, per la Camarilla, sarebbe quello di avere una leva nel rapporto coi Giovanni (?). Oppure Amelia potrebbe farlo riavere a Rothstein di nascosto.
+
+Tequila spiega anche che il fatto che l'infante di Rothstein (Bugsy) abbia fatto uno zombie provocherebbe sconvolgimenti politici grossi...
+
+Purtroppo Tequila non ha nulla da dire sulle altre cose che interessano a Maya (sua mamma, la Chiesa Cristiana di Gesù Cristo, la ricetta del tiramisù). La sconsiglia di andare nell'Idaho e nel Nevada per cercare sua madre, perché si tratta di territori Sabbat.
+
+Maya, dopo avergli fatto centomila domande, gli chiede anche quale sia lo schieramento di Tequila. Se non sta con la Camarilla, con chi sta? [Fallimento critico] Tequila la percula "Se non l'hai ancora capito è meglio che te ne vada..."
+Maya prova a chiedergli se può essere ospitata da Tequila nelle fogne, visto che ormai è quasi l'alba... Ma Tequila non è che abbia molta voglia.
+Così Maya lo convince impietosendolo [tanti successi di Empatia]. Si fa un bel sonnellino per terra nella fogna...   
 
 <a href="http://xabacadabra.com/cursed-legacy/diario" class="button">Diario</a>
 <a href="5-maggio-1956.html" class="button back">6 Maggio</a>
+<a href="8-maggio-1956.html" class="button next">8 Maggio</a>
