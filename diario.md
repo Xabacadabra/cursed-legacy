@@ -113,7 +113,7 @@ nav-menu: true
 <dl>
 	<dt>Luglio</dt>
 	<dd>
-		<p>Peter viene ricoverato in un reparto del St Mary "controllato" dalla Camarilla: in Elysium hanno immediatamente compreso la sua condizione di ghoul e le conseguenze dell'astinenza da sangue, ma il prolungato periodo trascorso ad Alcatraz sembra averlo debilitato parecchio psicologicamente. [Modalità Cloud sulla Sedia]. Prevedibilmente, ne Paul ne Maya sono ancora riusciti a cavar fuori qualcosa da lui</p>
+		<p>Peter viene ricoverato in un reparto del St Mary "controllato" dalla Camarilla: in Elysium hanno immediatamente compreso la sua condizione di ghoul e le conseguenze dell'astinenza da sangue vampirico, ma il prolungato periodo trascorso ad Alcatraz sembra averlo debilitato parecchio psicologicamente. [Modalità Cloud sulla Sedia]. Prevedibilmente, ne Paul ne Maya sono ancora riusciti a cavar fuori qualcosa da lui</p>
 
 		<p>Zeno scompare dalla circolazione: Tequila, Robert e Alice riescono a trovare il Camion la notte seguente, ma del brujah nessuna traccia. I tre riprendono il viaggio verso Los Angeles per conferire con membri delle alte sfere anarchiche sul da farsi</p>
 
@@ -159,7 +159,6 @@ nav-menu: true
 		<p>Sebastian, tramite Duncan, si accorda con l'anarchico Isaac Abrams ed insieme contribuiscono alla fondazione del San Francisco Film Festival. Alice, al seguito di Isaac, a occasione di tornare brevemente nella sua città [possibile giocata flashback]</p>
 	</dd>            
 
-	</dd>
 	<dt>Ottobre</dt>
 	<dd>
 		<p>Robert, bazzicando per la California alla ricerca d'indizi su Naira, viene a sapere del lancio dello Sputnik: la notizia lo sconvolge a tal punto che è vagamente tentato di partire alla volta dell'Unione Sovietica, ma è un desiderio fugace.</p>
@@ -176,7 +175,7 @@ nav-menu: true
 <dl>
 	<dt>Giugno</dt>
 	<dd>
-		<p>Glory si fa carico delle cure di Peter, trasferendolo dal St Mary al suo Dominio.</p>
+		<p>Glory, sebbene ancora affetta da novox, si fa carico delle cure di Peter (che non ha manifestato ancora alcun miglioramento) trasferendolo dal St Mary al proprio Dominio.</p>
 	</dd>
 
 </dl>
@@ -194,7 +193,7 @@ nav-menu: true
 <dl>
 	<dt>Novembre</dt>
 	<dd>
-		<p>Elezioni Americane: John Fitzgerald Kennedy batte Richard Nixon. Sebbene l'Alabama resti fondamentalmente schierato col Partito Repubblicano, l'importante influenza di Martin Luther King e il contributo del Senatore Anderson (padre di Maya) contribuiranno alla crescita di popolarità di Kennedy tra le minoranze americane</p>
+		<p>Elezioni Americane: John Fitzgerald Kennedy batte Richard Nixon. Sebbene l'Alabama resti fondamentalmente schierato col Partito Repubblicano, l'importante influenza di Martin Luther King e il contributo del Senatore Anderson (padre di Maya) alimentano la crescita di popolarità di Kennedy tra le minoranze americane</p>
 	</dd>
 
 	<dt>Dicembre</dt>
