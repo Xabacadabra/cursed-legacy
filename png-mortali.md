@@ -16,9 +16,11 @@ nav-menu: true
 		<div class="4u"><span class="image fit"><img src="assets/images/elizabeth.jpg" alt="" /></span><h3>Elizabeth Cooper</h3></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/joemasseria.jpg" alt="" /></span><h3>Joe Masseria</h3></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/edgard.jpg" alt="" /></span><h3>Edgard Anderson</h3></div>
-               <!-- Break -->
-                <div class="4u"><span class="image fit"><img src="assets/images/luke.jpg" alt="" /></span><h3>Luke De Rosa</h3></div>
-                <div class="4u"><span class="image fit"><img src="assets/images/sarah.jpg" alt="" /></span><h3>Sarah Adelman</h3></div>
-                <div class="4u"><span class="image fit"><img src="assets/images/olga.jpg" alt="" /></span><h3>Olga Kozminsky</h3></div>
+        <!-- Break -->
+        <div class="4u"><span class="image fit"><img src="assets/images/luke.jpg" alt="" /></span><h3>Luke De Rosa</h3></div>
+        <div class="4u"><span class="image fit"><img src="assets/images/sarah.jpg" alt="" /></span><h3>Sarah Adelman</h3></div>
+        <div class="4u"><span class="image fit"><img src="assets/images/olga.jpg" alt="" /></span><h3>Olga Kozminsky</h3></div>
+        <!-- Break -->
+        <div class="4u"><span class="image fit"><img src="assets/images/riley.jpg" alt="" /></span><h3>Riley</h3></div>
 	</div>
 </div>
