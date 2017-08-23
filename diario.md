@@ -108,3 +108,98 @@ nav-menu: true
 <a href="/cursed-legacy/diario/6-maggio-1956.html" class="button">6 Maggio 1956</a>
 <a href="/cursed-legacy/diario/7-maggio-1956.html" class="button">7 Maggio 1956</a>
 <a href="/cursed-legacy/diario/8-maggio-1956.html" class="button">8 Maggio 1956</a>
+<a href="/cursed-legacy/diario/28-giugno-1956.html" class="button">28 Giugno 1956</a>
+
+<dl>
+	<dt>Luglio</dt>
+	<dd>
+		<p>Peter viene ricoverato in un reparto del St Mary "controllato" dalla Camarilla: in Elysium hanno immediatamente compreso la sua condizione di ghoul e le conseguenze dell'astinenza da sangue, ma il prolungato periodo trascorso ad Alcatraz sembra averlo debilitato parecchio psicologicamente. [Modalità Cloud sulla Sedia]. Prevedibilmente, ne Paul ne Maya sono ancora riusciti a cavar fuori qualcosa da lui</p>
+
+		<p>Zeno scompare dalla circolazione: Tequila, Robert e Alice riescono a trovare il Camion la notte seguente, ma del brujah nessuna traccia. I tre riprendono il viaggio verso Los Angeles per conferire con membri delle alte sfere anarchiche sul da farsi</p>
+
+		<p>Honerius, Paul e altri vampiri si recano ad Alcatraz dove si ricongiungono con lo Sceriffo Railsback: del Diacono, Amelia o Otto sembra non esserci più traccia, nonostante il gruppo prosegua le ricerche per diverse notti.</p>
+
+		<p>A seguito della scoparsa di Otto, Glory perde l'uso della voce.</p>
+
+	</dd>
+	<dt>Agosto</dt>
+	<dd>
+		<p>Paul viene nominato Frusta dello Sceriffo e "custode" di Alcatraz, sebbene ufficialmente il Dominio resti nelle mani della dispersa Amelia. La faccenda renderà il Brujah particolarmente antipatico ai Nosferatu della città.</p>
+
+		<p>Maya e Riley iniziano a collaborare abbastanza spesso: lui racconta quanto è riuscito a scoprire dei movimenti del Sabbat nell'Idaho, mentre Maya svolge qualche indagine per conto del Principe. In Elysium la brujah resta estremamente malvista da Nikolai e Railsback e, sebbene i rapporti con il "fratello" Paul risultino un minimo più cordiali, restano fondamentalmente freddi.</p>
+
+		<p>Luke cerca inutilmente di trovare Alice sfruttando tutti i suoi contatti. Paul e Maya vengono a scoprire da alcune voci circolanti nell'Elysium del "tradimento" di Robert e Alice, passati tra le fila degli anarchici (la faccenda Zeno, tuttavia, resta ignota)</p>
+
+		<p>Robert, con il beneplacito degli Anarchici e "garantito" da una lettera di Duncan, parte alla ricerca di Naira e Zeno.</p>
+
+		<p>Alice viene "adottata" da Isaac Abrams, un Toreador Anarchico molto influente legato all'industria Hollywoodiana</p>
+	
+	</dd>
+	<dt>Ottobre</dt>
+	<dd>
+		<p>Scoppia il secondo conflitto arabo-israeliano. Paul viene a sapere da suo padre che, da quanto trapela dal ghetto ebraico di Chicago, suo figlio è nato il 2 Settembre ed il suo nome è Raphael.</p>
+	</dd>		
+</dl>
+
+<h2>1957</h2>
+<dl>
+	<dt>Gennaio</dt>
+	<dd>
+		<p>Alexandra Cavendish arriva a San Francisco: è una Ventrue inglese molto influente di base a Washington, nonché stretta amica del Principe Vannevar. Si trova in città per sovrintendere la fondazione della Borsa di San Francisco. In quest'occasione ha modo di conoscere Paul e Maya, e con quest'ultima instaura una vaga amicizia</p>
+	</dd>
+	<dt>Marzo</dt>
+	<dd>
+		<p>Alexandra, sfruttando la fragile Tregua di Fresno stipulata da Vannevar e la propria indiscutibile abilità politico-finanziaria, riesce ad entrare incolume a Los Angeles per proseguire la sua opera nella Borsa locale (in pratica manipola/ghoulizza umani in posizioni strategiche per tenere sotto controllo il mercato). Jeremy MacNeil, leader anarchico del Libero Stato di California, è inizialmente diffidente nei confronti delle "puttanate capitaliste della camarilla", ma dietro una lauta fetta del sempre più fruttuoso mercato DEI BITCOIN accetta di buon grado la temporanea presenza dell'abile Alexandra.</p>
+
+        <p>Alice, che nel frattempo è divenuta una faccia conosciuta nell'ambiente anarchico della città, memorizza il volto della Ventrue, che a fine mese rientra a Washington</p>
+
+	</dd>
+	<dt>Giugno</dt>
+	<dd>
+		<p>Sebastian, tramite Duncan, si accorda con l'anarchico Isaac Abrams ed insieme contribuiscono alla fondazione del San Francisco Film Festival. Alice, al seguito di Isaac, a occasione di tornare brevemente nella sua città [possibile giocata flashback]</p>
+	</dd>            
+
+	</dd>
+	<dt>Ottobre</dt>
+	<dd>
+		<p>Robert, bazzicando per la California alla ricerca d'indizi su Naira, viene a sapere del lancio dello Sputnik: la notizia lo sconvolge a tal punto che è vagamente tentato di partire alla volta dell'Unione Sovietica, ma è un desiderio fugace.</p>
+	</dd>
+
+	<dt>Novembre</dt>
+	<dd>
+		<p>Il Principe Vannevar asseconda la spedizione in Idaho proposta da Riley (contro il parere di Nickolai, Railsback e Honerius) concedendo a Maya e un drappello di altri vampiri di recarsi nell'Idaho alla ricerca di Misty Halls [flashback da giocare, ma la madre non viene ritrovata in ogni caso]</p>
+	</dd>
+
+</dl>
+
+<h2>1958</h2>
+<dl>
+	<dt>Giugno</dt>
+	<dd>
+		<p>Glory si fa carico delle cure di Peter, trasferendolo dal St Mary al suo Dominio.</p>
+	</dd>
+
+</dl>
+
+<h2>1959</h2>
+<dl>
+	<dt>Giugno</dt>
+	<dd>
+		<p>[work in progress]</p>
+	</dd>
+
+</dl>
+
+<h2>1960</h2>
+<dl>
+	<dt>Novembre</dt>
+	<dd>
+		<p>Elezioni Americane: John Fitzgerald Kennedy batte Richard Nixon. Sebbene l'Alabama resti fondamentalmente schierato col Partito Repubblicano, l'importante influenza di Martin Luther King e il contributo del Senatore Anderson (padre di Maya) contribuiranno alla crescita di popolarità di Kennedy tra le minoranze americane</p>
+	</dd>
+
+	<dt>Dicembre</dt>
+	<dd>
+		<p>Abbraccio di Thomas.</p>
+	</dd>
+
+</dl>
