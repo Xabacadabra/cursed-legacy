@@ -156,7 +156,7 @@ nav-menu: true
 	</dd>
 	<dt>Giugno</dt>
 	<dd>
-		<p>Sebastian, tramite Duncan, si accorda con l'anarchico Isaac Abrams ed insieme contribuiscono alla fondazione del San Francisco Film Festival. Alice, al seguito di Isaac, a occasione di tornare brevemente nella sua città [possibile giocata flashback]</p>
+		<p>Sebastian, tramite Duncan, si accorda con l'anarchico Isaac Abrams ed insieme contribuiscono alla fondazione del San Francisco Film Festival. Il Principe permette una breve "estensione" della tregua durante l'evento e Alice, al seguito di Isaac, ha occasione di tornare brevemente nella sua città [possibile giocata flashback]</p>
 	</dd>            
 
 	<dt>Ottobre</dt>
@@ -184,8 +184,17 @@ nav-menu: true
 <dl>
 	<dt>Giugno</dt>
 	<dd>
-		<p>[work in progress]</p>
+		<p>Maya e Paul indagano su "sacrifici" analoghi a quello rinvenuto dalla ragazza nelle fogne nel 1956. In Elysium si sospetta di Delfonso, tuttora scomparso</p>
 	</dd>
+	<dt>Agosto</dt>
+	<dd>
+		<p>Robert è richiamato a Los Angeles e svolge qualche lavoro assieme a Tequila, con cui oramai ha instaurato un buon rapporto di fiducia. Dopo aver dimostrato la sua affidabilità, ottiene il dominio attorno a Lake Hughes, a nord di Los Angeles (ovviamente è un dominio in senso anarchico, quindi non gode dell'autorità e delle garanzie camarilliche)</p>
+	</dd>
+	<dt>Dicembre</dt>
+	<dd>
+		<p>Alice, sfruttando i suoi nuovi contatti tra gli anarchici, scopre molte cose riguardo il passato di Jacques:
+		Nonostante il nome "Jacques Chevalier" sia utilizzato solo da una cinquantina d'anni, il suo volto appare in alcune fotografie risalenti al 1842. Gode della protezione del Principe di Rennes, che sembrerebbe essere il suo sire.</p>
+	</dd>			
 
 </dl>
 
