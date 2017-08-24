@@ -128,11 +128,17 @@ nav-menu: true
 
 		<p>Maya e Riley iniziano a collaborare abbastanza spesso: lui racconta quanto è riuscito a scoprire dei movimenti del Sabbat nell'Idaho, mentre Maya svolge qualche indagine per conto del Principe. In Elysium la brujah resta estremamente malvista da Nikolai e Railsback e, sebbene i rapporti con il "fratello" Paul risultino un minimo più cordiali, restano fondamentalmente freddi.</p>
 
-		<p>Luke cerca inutilmente di trovare Alice sfruttando tutti i suoi contatti. Paul e Maya vengono a scoprire da alcune voci circolanti nell'Elysium del "tradimento" di Robert e Alice, passati tra le fila degli anarchici (la faccenda Zeno, tuttavia, resta ignota)</p>
+		<p>Paul rivela a Luke del vampirismo, del suo essere ghoul, e delle condizioni di Peter, scusandosi per averlo fatto a sua insaputa e specificando che la sua condizione è "temporanea". Allo stesso modo, parla anche di Alice e della sua natura cainita mettendolo in guardia facendo leva sul benessere di suo figlio</p>  
+
+		<p>Nonostante gli avvertimenti di Paul, Luke cerca inutilmente di trovare Alice sfruttando i suoi contatti.</p>
+
+		<p>Paul e Maya vengono a scoprire da alcune voci circolanti nell'Elysium del "tradimento" di Robert e Alice, passati tra le fila degli anarchici (la faccenda Zeno, tuttavia, resta ignota)</p>
 
 		<p>Robert, con il beneplacito degli Anarchici e "garantito" da una lettera di Duncan, parte alla ricerca di Naira e Zeno.</p>
 
 		<p>Alice viene "adottata" da Isaac Abrams, un Toreador Anarchico molto influente legato all'industria Hollywoodiana</p>
+
+		<p>Paul tenta in ogni modo di contattare Sarah, ma da Chicago nessuno (nemmeno la famiglia di lei) sembra avere sue notizie. Grazie a Luke il brujah riesce a tranquillizzare i genitori, spiegandogli anche delle condizioni di Peter a seguito del suo ritrovamento e della sua decisione di trasferirsi permamentemente a San Francisco</p>
 	
 	</dd>
 	<dt>Ottobre</dt>
@@ -166,7 +172,7 @@ nav-menu: true
 
 	<dt>Novembre</dt>
 	<dd>
-		<p>Il Principe Vannevar asseconda la spedizione in Idaho proposta da Riley (contro il parere di Nickolai, Railsback e Honerius) concedendo a Maya e un drappello di altri vampiri di recarsi nell'Idaho alla ricerca di Misty Halls [flashback da giocare, ma la madre non viene ritrovata in ogni caso]</p>
+		<p>Il Principe Vannevar asseconda la spedizione in Idaho proposta da Riley (contro il parere di Nickolai, Railsback e Honerius) concedendo a Maya e un drappello di altri vampiri di recarsi nell'Idaho alla ricerca di Misty Halls. Paul, sentendosi responsabile per le azioni del fratello Peter, si offre volontario per collaborare. [flashback da giocare, ma la madre non viene ritrovata in ogni caso]</p>
 	</dd>
 
 </dl>
@@ -175,13 +181,20 @@ nav-menu: true
 <dl>
 	<dt>Giugno</dt>
 	<dd>
-		<p>Glory, sebbene ancora affetta da novox, si fa carico delle cure di Peter (che non ha manifestato ancora alcun miglioramento) trasferendolo dal St Mary al proprio Dominio.</p>
+		<p>Glory, sebbene ancora affetta da novox, si fa carico delle cure di Peter (che non ha manifestato ancora alcun cenno di miglioramento) trasferendolo dal St Mary al proprio Dominio.</p>
+
+		<p>Paul le è profondamente grato e instaura un buon rapporto con la malkavian</p>
 	</dd>
 
 	<dt>Luglio</dt>
 	<dd>
-		<p>Viene fondata la NASA: Gli Stati Uniti iniziano a investire ingenti capitali nella corsa spaziale a seguito dei risultati ottenuti dall'URSS l'anno prima. </p>
+		<p>Viene fondata la NASA: Gli Stati Uniti iniziano a investire ingenti capitali nella corsa spaziale a seguito dei risultati ottenuti dall'URSS l'anno prima. Robert raccoglie ogni informazione che può sulla faccenda</p>
 	</dd>
+
+	<dt>Agosto</dt>
+	<dd>
+		<p>Paul cerca informazioni su Zeno (ormai scomparso da più di due anni), ma quest'ultimo sembra essere del tutto fuori dall'area di San Francisco.</p>
+	</dd>	
 
 </dl>
 
