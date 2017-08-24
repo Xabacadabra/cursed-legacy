@@ -178,6 +178,11 @@ nav-menu: true
 		<p>Glory, sebbene ancora affetta da novox, si fa carico delle cure di Peter (che non ha manifestato ancora alcun miglioramento) trasferendolo dal St Mary al proprio Dominio.</p>
 	</dd>
 
+	<dt>Luglio</dt>
+	<dd>
+		<p>Viene fondata la NASA: Gli Stati Uniti iniziano a investire ingenti capitali nella corsa spaziale a seguito dei risultati ottenuti dall'URSS l'anno prima. </p>
+	</dd>
+
 </dl>
 
 <h2>1959</h2>
@@ -202,12 +207,9 @@ nav-menu: true
 <dl>
 	<dt>Novembre</dt>
 	<dd>
-		<p>Elezioni Americane: John Fitzgerald Kennedy batte Richard Nixon. Sebbene l'Alabama resti fondamentalmente schierato col Partito Repubblicano, l'importante influenza di Martin Luther King e il contributo del Senatore Anderson (padre di Maya) alimentano la crescita di popolarità di Kennedy tra le minoranze americane</p>
-	</dd>
-
-	<dt>Dicembre</dt>
-	<dd>
-		<p>Abbraccio di Thomas.</p>
+		<p>Elezioni Americane: John Fitzgerald Kennedy batte Richard Nixon. Sebbene lo stato dell'Alabama resti fondamentalmente schierato col Partito Repubblicano, l'importante influenza di Martin Luther King e il contributo del Senatore Anderson (padre di Maya) alimentano la crescita di popolarità di Kennedy tra le minoranze americane</p>
 	</dd>
 
 </dl>
+
+<a href="/cursed-legacy/diario/31-dicembre-1960.html" class="button">31 Dicembre 1960</a>
