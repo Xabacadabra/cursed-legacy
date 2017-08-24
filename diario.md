@@ -184,6 +184,10 @@ nav-menu: true
 		<p>Glory, sebbene ancora affetta da novox, si fa carico delle cure di Peter (che non ha manifestato ancora alcun cenno di miglioramento) trasferendolo dal St Mary al proprio Dominio.</p>
 
 		<p>Paul le è profondamente grato e instaura un buon rapporto con la malkavian</p>
+
+		<p>Maya a sua volta frequenta spesso la dimora di Glory e, discutendo dei frammenti, quest'ultima le scrive un criptico messaggio:</p>
+
+		<p><i>"è tutto un puzzle che compone il segno rancoroso di un vecchio fenicio"</i></p>
 	</dd>
 
 	<dt>Luglio</dt>
