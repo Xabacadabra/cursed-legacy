@@ -22,5 +22,6 @@ nav-menu: true
         <div class="4u"><span class="image fit"><img src="assets/images/olga.jpg" alt="" /></span><h3>Olga Kozminsky</h3></div>
         <!-- Break -->
         <div class="4u"><span class="image fit"><img src="assets/images/riley.jpg" alt="" /></span><h3>Riley</h3></div>
+        <div class="4u"><span class="image fit"><img src="assets/images/charles.jpg" alt="" /></span><h3>Charles Johnson</h3></div>
 	</div>
 </div>
