@@ -91,3 +91,4 @@ Si preparano per il viaggio a Fresno. Alice avverte Sebastian che saranno a Fres
 
 <a href="http://xabacadabra.com/cursed-legacy/diario" class="button">Diario</a>
 <a href="2-gennaio-1961.html" class="button back">1-2 Gennaio 1961</a>
+<a href="4-gennaio-1961.html" class="button back">3-4 Gennaio 1961</a>
