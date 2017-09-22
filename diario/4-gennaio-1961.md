@@ -66,3 +66,4 @@ E' deciso: Jacques resta nel gruppo. Paul, visto che l'incidente è risolto, dec
 
 <a href="http://xabacadabra.com/cursed-legacy/diario" class="button">Diario</a>
 <a href="3-gennaio-1961.html" class="button back">2-3 Gennaio 1961</a>
+<a href="4-5-gennaio-1961.html" class="button next">4-5 Gennaio 1961</a>
