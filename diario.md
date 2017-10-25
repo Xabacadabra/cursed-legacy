@@ -100,15 +100,15 @@ nav-menu: true
    </dd>
 </dl>
 
-<a href="/cursed-legacy/diario/1-maggio-1956.html" class="button">1 Maggio 1956</a>
-<a href="/cursed-legacy/diario/2-maggio-1956.html" class="button">2 Maggio 1956</a>
-<a href="/cursed-legacy/diario/3-maggio-1956.html" class="button">3 Maggio 1956</a>
-<a href="/cursed-legacy/diario/4-maggio-1956.html" class="button">4 Maggio 1956</a>
-<a href="/cursed-legacy/diario/5-maggio-1956.html" class="button">5 Maggio 1956</a>
-<a href="/cursed-legacy/diario/6-maggio-1956.html" class="button">6 Maggio 1956</a>
-<a href="/cursed-legacy/diario/7-maggio-1956.html" class="button">7 Maggio 1956</a>
-<a href="/cursed-legacy/diario/8-maggio-1956.html" class="button">8 Maggio 1956</a>
-<a href="/cursed-legacy/diario/28-giugno-1956.html" class="button">28 Giugno 1956</a>
+<a href="/cursed-legacy/diario/1956-5-1.html" class="button">1 Maggio 1956</a>
+<a href="/cursed-legacy/diario/1956-5-2.html" class="button">2 Maggio 1956</a>
+<a href="/cursed-legacy/diario/1956-5-3.html" class="button">3 Maggio 1956</a>
+<a href="/cursed-legacy/diario/1956-5-4.html" class="button">4 Maggio 1956</a>
+<a href="/cursed-legacy/diario/1956-5-5.html" class="button">5 Maggio 1956</a>
+<a href="/cursed-legacy/diario/1956-5-6.html" class="button">6 Maggio 1956</a>
+<a href="/cursed-legacy/diario/1956-5-7.html" class="button">7 Maggio 1956</a>
+<a href="/cursed-legacy/diario/1956-5-8.html" class="button">8 Maggio 1956</a>
+<a href="/cursed-legacy/diario/1956-6-28.html" class="button">28 Giugno 1956</a>
 
 <dl>
 	<dt>Luglio</dt>
@@ -229,11 +229,13 @@ nav-menu: true
 
 </dl>
 
-<a href="/cursed-legacy/diario/31-dicembre-1960.html" class="button">31 Dicembre 1960</a>
+<a href="/cursed-legacy/diario/1960-12-31.html" class="button">31 Dicembre 1960</a>
 
 <h2>1961</h2>
 
-<a href="/cursed-legacy/diario/2-gennaio-1961.html" class="button">1-2 Gennaio 1961</a>
-<a href="/cursed-legacy/diario/3-gennaio-1961.html" class="button">2-3 Gennaio 1961</a>
-<a href="/cursed-legacy/diario/4-gennaio-1961.html" class="button">3-4 Gennaio 1961</a>
-<a href="/cursed-legacy/diario/4-5-gennaio-1961.html" class="button">4-5 Gennaio 1961</a>
+<a href="/cursed-legacy/diario/1961-1-1.html" class="button">1 Gennaio 1961</a>
+<a href="/cursed-legacy/diario/1961-1-2.html" class="button">2 Gennaio 1961</a>
+<a href="/cursed-legacy/diario/1961-1-3.html" class="button">3 Gennaio 1961</a>
+<a href="/cursed-legacy/diario/1961-1-4.html" class="button">4 Gennaio 1961</a>
+<a href="/cursed-legacy/diario/1961-1-5.html" class="button">5 Gennaio 1961</a>
+<a href="/cursed-legacy/diario/1961-1-6.html" class="button">6 Gennaio 1961</a>
