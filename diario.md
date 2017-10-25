@@ -221,6 +221,9 @@ nav-menu: true
 </dl>
 
 <h2>1960</h2>
+
+<span class="image fit"><img src="assets/images/timeline2.jpg" alt="" /></span>
+
 <dl>
 	<dt>Novembre</dt>
 	<dd>
