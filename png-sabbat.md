@@ -11,4 +11,9 @@ nav-menu: true
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="assets/images/misty.jpg" alt="" /></span><h3>Misty Halls</h3></div>
         </div>
+        <div class="4u"><span class="image fit"><img src="assets/images/urbek.jpg" alt="" /></span><h3>Urbek</h3></div>
+        </div>
+        <div class="4u"><span class="image fit"><img src="assets/images/dorothy.jpg" alt="" /></span><h3>Dorothy</h3></div>
+        </div>
+
 </div>

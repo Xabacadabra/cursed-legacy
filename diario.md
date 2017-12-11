@@ -172,7 +172,9 @@ nav-menu: true
 
 	<dt>Novembre</dt>
 	<dd>
-		<p>Il Principe Vannevar asseconda la spedizione in Idaho proposta da Riley (contro il parere di Nickolai, Railsback e Honerius) concedendo a Maya e un drappello di altri vampiri di recarsi nell'Idaho alla ricerca di Misty Halls. Paul, sentendosi responsabile per le azioni del fratello Peter, si offre volontario per collaborare. [flashback da giocare, ma la madre non viene ritrovata in ogni caso]</p>
+		<p>Il Principe Vannevar asseconda la spedizione in Idaho proposta da Riley (contro il parere di Nickolai, Railsback e Honerius) concedendo a Maya e un drappello di altri vampiri di recarsi nell'Idaho alla ricerca di Misty Halls. Paul, sentendosi responsabile per le azioni del fratello Peter, si offre volontario per collaborare.</p>
+
+        <a href="/cursed-legacy/diario/1957-11-1.html" class="button">VEDI FLASHBACK</a>
 	</dd>
 
 </dl>
@@ -242,3 +244,4 @@ nav-menu: true
 <a href="/cursed-legacy/diario/1961-1-4.html" class="button">4 Gennaio 1961</a>
 <a href="/cursed-legacy/diario/1961-1-5.html" class="button">5 Gennaio 1961</a>
 <a href="/cursed-legacy/diario/1961-1-6.html" class="button">6 Gennaio 1961</a>
+<a href="/cursed-legacy/diario/1961-1-7.html" class="button">7 Gennaio 1961</a>
