@@ -2,7 +2,7 @@
 layout: post
 title: Vannevar Thomas
 description: vannevar
-image: null
+image: vannevar
 nav-menu: true
 ---
 
