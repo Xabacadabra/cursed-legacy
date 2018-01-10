@@ -22,4 +22,4 @@ Dalla seconda metà degli anni '50 è in aperto conflitto con Rothstein, potente
 
 È notoriamente mal sopportato dai Tremere, vicini alla città di Sacramento e vecchi Signori di San Francisco: Montelaine ed il suo infante Cyrano, Principi della città antecedenti a Vannevar, erano infatti dei Tremere. 
 
-<a href="xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>
+<a href="http://xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>

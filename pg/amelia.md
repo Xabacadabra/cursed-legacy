@@ -16,4 +16,4 @@ Una delle sue tante trame comprendeva Peter De Rosa, ghoul di un vampiro di Chic
 
 Secondo molti è stata probabilmente dibalerizzata dal Diacono, tuttavia il Principe non si è mai espresso in merito, e allo stato attuale il titolo di primogeno nosferatu risulta vacante, mentre il dominio di Alcatraz è andato in sovritendenza alla Frusta Paul De Rosa. 
 
-<a href="xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>
+<a href="http://xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>

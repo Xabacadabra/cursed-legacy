@@ -18,4 +18,4 @@ Per via del suo turbolento passato, a San Francisco è sempre stato percepito am
 
 Non si hanno sue notizie sin dal 1956.
 
-<a href="xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>
+<a href="http://xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>

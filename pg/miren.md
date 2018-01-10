@@ -24,4 +24,4 @@ Dugan, vecchio rivale di Vannevar (ucciso dal vecchio Principe Montelaine) era i
 
 Dopo l'assalto di Fresno da parte dell'orda di zombie ha dichiarato guerra al giovanni Rothstein.
 
-<a href="xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>
+<a href="http://xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>

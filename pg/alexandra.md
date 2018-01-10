@@ -12,4 +12,4 @@ Legata a doppiofilo con la camarilla della capitale americana, vantava svariati 
 
 Sembra essere stata misteriosamente assassinata nel 1961 a San Francisco.
 
-<a href="xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a> 
+<a href="http://xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a> 

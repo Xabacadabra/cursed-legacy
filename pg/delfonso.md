@@ -18,4 +18,4 @@ Nel 1956 gettò nello scompiglio l'intera città dopo aver ricevuto notizia dell
 
 Ad oggi, nessuno sa dove si trovi.
 
-<a href="xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>
+<a href="http://xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>
