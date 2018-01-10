@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vannevar Thomas
+title: Vannevar
 description: vannevar
 image: null
 nav-menu: false
