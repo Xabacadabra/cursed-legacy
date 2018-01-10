@@ -18,7 +18,7 @@ nav-menu: true
 		<!-- Break -->
 		<div class="4u"><a href="pg/amelia"><span class="image fit"><img src="assets/images/amelia.jpg" alt="" /></span><h3>Amelia</h3></a></div>
 		<div class="4u"><a href="pg/yurok"><span class="image fit"><img src="assets/images/yurok.jpg" alt="" /></span><h3>Yurok</h3></a></div>
-		<div class="4u$"><a href="pg/yurok"><span class="image fit"><img src="assets/images/nash.jpg" alt="" /></span><h3>Nash</h3></a></div>
+		<div class="4u$"><a href="pg/nash"><span class="image fit"><img src="assets/images/nash.jpg" alt="" /></span><h3>Nash</h3></a></div>
         <!-- Break -->
 		<div class="4u"><a href="pg/sebastian"><span class="image fit"><img src="assets/images/sebastian.jpg" alt="" /></span><h3>Sebastian</h3></a></div>
         <div class="4u"><a href="pg/vibeke"><span class="image fit"><img src="assets/images/vibeke.jpg" alt="" /></span><h3>Vibeke</h3></a></div>

@@ -17,3 +17,5 @@ Sebastian è uno sfrenato edonista che ama dare di se la tipica immagine del fri
 Sebastian è infatti in rapporti piuttosto cordiali con diversi toreador passati nella setta degli anarchici, e ha giocato un ruolo di primo piano durante la stipulazione della Tregua di Fresno nel 1951.
 
 In effetti, l'unica ostilità palese di cui si ha notizia l'ha avuta con Amelia, primogena Nosferatu dispersa dal 1956. 
+
+<a href="xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>

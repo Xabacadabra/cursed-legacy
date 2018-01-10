@@ -15,3 +15,5 @@ Nikolai l'ha resa sua schiava con un legame di sangue, ed è poco più che una m
 Mentalmente è rimasta una donna ottocentesca.
 
 Vive in una Villa vittoriana di proprietà di Nikolai nel quartiere di Panhandle.
+
+<a href="xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>

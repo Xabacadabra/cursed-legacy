@@ -17,3 +17,5 @@ Nel 1951 è riuscito a tornare nelle grazie della Camarilla di San Francisco, co
 Per via del suo turbolento passato, a San Francisco è sempre stato percepito ambiguamente da molti dei fratelli più intransigenti (come Nikolai, i tremere ma anche la stessa primogena del suo clan Miren Cosgrave), ma nonostante questo Vannevar sembra averlo sempre tenuto in alta considerazione.
 
 Non si hanno sue notizie sin dal 1956.
+
+<a href="xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>

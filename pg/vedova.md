@@ -15,3 +15,5 @@ Nel 1956, con la scomparsa di quest'ultima, è divenuta la leader del clan de fa
 Ha partecipato alla Spedizione di Maya nel 1957, esperienza che per lei si è rivelata devastante: 
 
 A seguito delle torture inferte da un potente Tzimisce è divenuta mentalmente molto più instabile e paranoica: da allora non ha praticamente più lasciato il suo quartier generale nelle fogne di Chinatown, continuando a dirigere silenziosamente la rete Nosferatu della città.
+
+<a href="xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>

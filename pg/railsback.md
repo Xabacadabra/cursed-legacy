@@ -17,3 +17,5 @@ Poco loquace, brusco e diffidente, è generalmente considerato uno degli uomini 
 Non sembra provare grande stima per buona parte dei membri del suo Clan...ma in effetti non sembra provare particolare stima per nessuno. 
 
 Con la scomparsa di Zeno nel 1956, resta l'ultimo dei Corvi assieme a Jacques di cui si conosce la posizione.
+
+<a href="xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>
