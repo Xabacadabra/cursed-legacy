@@ -3,7 +3,7 @@ layout: post
 title: Vedova
 description:
 image: assets/images/vedova.jpg
-nav-menu: null
+nav-menu: false
 ---
 
 Nosferatu originaria di Tientsin (Cina nord-orientale), è giunta a San Francisco durante i primi anni del '900 dove è stata diretta protagonista di diverse "guerre civili" contro i Kuei-jin, famigerate creature simil-vampiriche d'origine asiatica.

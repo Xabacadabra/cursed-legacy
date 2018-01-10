@@ -19,7 +19,7 @@
 		{% endfor %}
 		{% for page in site.pages %}
 		    {% unless page.exclude %}<!--escludo dal menù-->
-		     {% if page.layout != "home" %}
+		     {% if page.layout != "home" and page.nav-menu == true %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		     {% endif %}
 	        {% endunless %}<!--fine esclusione-->
