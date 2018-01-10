@@ -3,6 +3,7 @@ layout: post
 title: Honerius
 description: null
 image: assets/images/honerius.jpg
+nav-menu: false
 ---
 
 Infante del defunto Principe Cyrano, deceduto nel Terremoto del 1906 e detentore della carica prima di Vannevar. 

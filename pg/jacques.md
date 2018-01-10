@@ -3,6 +3,7 @@ layout: post
 title: Jacques
 description: null
 image: assets/images/jacques.jpg
+nav-menu: false
 ---
 
 Jacques Chevalier è il nome di un rinomato fotografo francese della prima metà del '900...tuttavia pochi sanno che il misterioso artista perfeziona la sua abilità sin dal 1842, quando ha praticamente presenziato al battesimo della fotografia.

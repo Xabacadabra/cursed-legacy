@@ -3,6 +3,7 @@ layout: post
 title: Vannevar
 description: Ventrue
 image: assets/images/vannevar.jpg
+nav-menu: false
 ---
 
 Primo rappresentante della Camarilla a San Francisco. 

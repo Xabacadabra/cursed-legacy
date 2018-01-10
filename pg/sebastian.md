@@ -3,6 +3,7 @@ layout: post
 title: Sebastian
 description: null
 image: assets/images/sebastian.jpg
+nav-menu: false
 ---
 
 Primogeno Toreador e Grande Arpia di San Francisco, è da molti considerato principale esponente del clan nel Nuovo Mondo: 

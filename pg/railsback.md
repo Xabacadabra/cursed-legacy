@@ -3,6 +3,7 @@ layout: post
 title: Railsback
 description: null
 image: assets/images/railsback.jpg
+nav-menu: false
 ---
 
 Sceriffo di San Francisco.

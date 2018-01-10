@@ -3,6 +3,7 @@ layout: post
 title: Nikolai
 description: null
 image: assets/images/nikolai.jpg
+nav-menu: false
 ---
 
 Il misterioso Siniscalco di San Francisco. 
