@@ -3,11 +3,10 @@ layout: post
 title: Vannevar Thomas
 description: vannevar
 image: null
-nav-menu: true
+nav-menu: false
 ---
-<div class="box alt">
-	<span class="image avatar"><img src="../assets/images/vannevar.jpg" alt="" /></span>
-</div>
+
+<span class="image avatar"><img src="../assets/images/vannevar.jpg" alt="" /></span>
 
 Primo rappresentante della Camarilla a San Francisco. 
 

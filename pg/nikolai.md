@@ -3,11 +3,10 @@ layout: post
 title: Nikolai
 description: nikolai
 image: null
-nav-menu: true
+nav-menu: false
 ---
-<div class="box alt">
-	<span class="image avatar"><img src="../assets/images/nikolai.jpg" alt="" /></span>
-</div>
+
+<span class="image avatar"><img src="../assets/images/nikolai.jpg" alt="" /></span>
 
 Il misterioso Siniscalco di San Francisco. 
 
