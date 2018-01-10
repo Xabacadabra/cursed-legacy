@@ -6,7 +6,7 @@ image: null
 nav-menu: true
 ---
 <div class="box alt">
-	<span class="image main"><img src="../assets/images/vannevar.jpg" alt="" /></span>
+	<span class="image avatar"><img src="../assets/images/vannevar.jpg" alt="" /></span>
 </div>
 
 Primo rappresentante della Camarilla a San Francisco. 
