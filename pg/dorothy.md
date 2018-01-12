@@ -14,7 +14,9 @@ Fedeli portatrici dell'eredità di Hanson, Dorothy e Misty possedevano un quarti
 
 Nel 1957 il suo rifugio venne sgominato dal gruppo di Maya Anderson, che riuscì a catturarla.
 
-Imprigionata nell'Elysium di San Francisco, Dorothy è stata più volte torturata da diversi membri della camarilla desiderosi di cavare da lei qualche osservazione inutile, ma a quanto sembra parecchio resistente anche alle discipline più potenti, e soprattutto dotata di un fanatismo fuori dal comune: in più occasioni è riuscita a cavarsi gli occhi o strapparsi volutamente la lingua in modo da rivelare il meno possibile. 
+Imprigionata nell'Elysium di San Francisco, Dorothy è stata più volte torturata da diversi membri della camarilla desiderosi di cavare da lei qualche informazione utile, ma a quanto sembra la donna è parecchio resistente anche alle discipline più potenti, e soprattutto dotata di un fanatismo fuori dal comune: 
+
+In più occasioni è riuscita a cavarsi gli occhi o strapparsi volutamente la lingua in modo da rivelare il meno possibile. 
 
 Ciò non di meno, la Camarilla l'ha di tanto in tanto tartassata per chiedere lumi sulla situazione del Sabbat a nord, riuscendo a guadagnare alcuni frammenti di preziosa intelligence: anche per questo, Maya e Paul hanno guadagnato una certa stima nella corte di Vannevar.
 
