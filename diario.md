@@ -17,9 +17,45 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
+				<td>1859</td>
+				<td>A seguito della sempre più rilevante influenza dei [Kuei-Jin, il sempre più instabile Delfonso abdica al titolo di Principe in favore del primogeno Tremere: Montelaine</td>
+			</tr>
+			<tr>
+				<td>1877</td>
+				<td>Montelaine cade nella rete cospirativa del suo infante Cyrano, che riesce così a divenire il nuovo Principe di San Francisco.</td>
+			</tr>			
+			<tr>
+				<td>1902</td>
+				<td>Nash, potente gangrel europeo, sfida e sconfigge Yurok assumendo il titolo di capobranco dei Moon Creek. Conseguentemente, Naira e Railsback abbandonano il branco.</td>
+			</tr>
+			<tr>
+				<td>1904</td>
+				<td>Rothstein arriva a San Francisco dove apre il Verdi Club, mentre il suo ghoul Amadeo Giannini fonda la Bank of Italy</td>
+			</tr>
+			<tr>
+				<td>1905</td>
+				<td>Nel dicembre di quest'anno si forma la coterie dei Corvi d'Avorio guidata da Jacques. Ne fanno parte Zeno, Naira, Railsback e Il Diacono.</td>
+			</tr>
+			<tr>
+				<td>1906</td>
+				<td>Terremoto di San Francisco. Numerosi Fratelli periscono, compreso lo stesso Principe Cyrano. Zeno e Naira lasciano la città, Jacques torna in Europa, il Diacono scompare dai radar mentre Railsback supporta la scalata al potere di Vannevar, primogeno ventrue.</td>
+			</tr>
+			<tr>
+				<td>1908</td>
+				<td>La comunità cainita di San Francisco è nel caos: per via delle lotte di potere la città non ha ancora un Principe. Sebastian Melmoth giunge in città e fonda il Vampire Club, divenendo un fondamentale alleato di Vannevar.</td>
+			</tr>													
+			<tr>
 				<td>1914</td>
 				<td>Scoppia la Prima Guerra Mondiale, Nasce Otto</td>
 			</tr>
+			<tr>
+				<td>1916</td>
+				<td>Dopo anni di lotte e complotti, Vannevar diviene ufficialmente il Principe di San Francisco. Alcuni vedono nella sua nomina la mano di Karsh, leggendario warlord della Camarilla, altri i misteriosi Kuei-Jin.</td>
+			</tr>
+			<tr>
+				<td>1917</td>
+				<td>Il vampiro Nikolai giunge a San Francisco: convinto zarista, ha abbandonato la Russia a seguito della Rivoluzione. Nel giro dello stesso anno diventerà uno degli uomini più fidati di Vannevar.</td>
+			</tr>												
 			<tr>
 				<td>1920</td>
 				<td>Nasce Paul</td>
