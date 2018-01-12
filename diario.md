@@ -18,7 +18,7 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>1859</td>
-				<td>A seguito della sempre più rilevante influenza dei [Kuei-Jin, il sempre più instabile Delfonso abdica al titolo di Principe in favore del primogeno Tremere: Montelaine</td>
+				<td>A seguito della sempre più rilevante influenza dei Kuei-Jin, il sempre più instabile Delfonso abdica al titolo di Principe in favore del primogeno Tremere: Montelaine</td>
 			</tr>
 			<tr>
 				<td>1877</td>
