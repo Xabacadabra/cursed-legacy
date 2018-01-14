@@ -118,7 +118,7 @@ nav-menu: true
 			</tr>							
 			<tr>
 				<td>1955</td>
-				<td>Caso Rosa Parks: Edgar Anderson, il padre di Maya, si reca in Alabama per seguirlo in prima persona</td>
+				<td>Caso Rosa Parks: Edgar Anderson, il padre di Maya, si reca in Alabama per seguirlo in prima persona.</td>
 			</tr>																			
 		</tbody>
 	</table>
