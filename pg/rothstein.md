@@ -16,4 +16,8 @@ Dal 1956 è ossessionato da Robert Morgan, assassino di Bugsy Siegel:
 
 Solo grazie allo status guadagnato con gli anarchici il gangrel è infatti riuscito a scampare alla terribile vendetta di Rothstein, divenendo di fatto uno dei pochi punti deboli del giovanni, arrivato ad attaccare direttamente la città di Fresno pur di ucciderlo, lasciando da parte la sua fantomatica prudenza.
 
+È celebre per mantenere sempre la sua parola, sebbene generalmente questo implichi qualche minaccia.
+
+Il suo quartier generale originale era il celebre casinò Flamingo, ma da qualche tempo ha costruito una fortezza sotteranea nel Tropicana Resort Casino. In generale, possiede molti altri casinò della strip di Las Vegas che possono rappresentare rifugi.
+
 <a href="http://xabacadabra.com/cursed-legacy/png-indipendenti.html" class="button back">PNG Indipendenti</a>
