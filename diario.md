@@ -29,10 +29,6 @@ nav-menu: true
 				<td>Nash, potente gangrel europeo, sfida e sconfigge Yurok assumendo il titolo di capobranco dei Moon Creek. Conseguentemente, Naira e Railsback abbandonano il branco.</td>
 			</tr>
 			<tr>
-				<td>1904</td>
-				<td>Rothstein arriva a San Francisco dove apre il Verdi Club, mentre il suo ghoul Amadeo Giannini fonda la Bank of Italy</td>
-			</tr>
-			<tr>
 				<td>1905</td>
 				<td>Nel dicembre di quest'anno si forma la coterie dei Corvi d'Avorio guidata da Jacques. Ne fanno parte Zeno, Naira, Railsback e Il Diacono.</td>
 			</tr>
@@ -43,7 +39,11 @@ nav-menu: true
 			<tr>
 				<td>1908</td>
 				<td>La comunità cainita di San Francisco è nel caos: per via delle lotte di potere la città non ha ancora un Principe. Sebastian Melmoth giunge in città e fonda il Vampire Club, divenendo un fondamentale alleato di Vannevar.</td>
-			</tr>													
+			</tr>
+			<tr>
+				<td>1913</td>
+				<td>Rothstein arriva a San Francisco dove compra il Verdi Club</td>
+			</tr>														
 			<tr>
 				<td>1914</td>
 				<td>Scoppia la Prima Guerra Mondiale, Nasce Otto</td>
@@ -86,7 +86,7 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>1944</td>
-				<td>Paul e Robert prendono parte allo Sbarco in Normandia</td>
+				<td>Zeno e Naira partecipano alla Rivolta Anarchica di Jeremy MacNeil: nasce il Libero Stato di California. Paul e Robert prendono parte allo Sbarco in Normandia.</td>
 			</tr>
 			<tr>
 				<td>1945</td>
@@ -97,9 +97,21 @@ nav-menu: true
 				<td>Robert è testimone dell'Incidente di Roswell e decide di lasciare l'esercito</td>
 			</tr>
 			<tr>
+				<td>1948</td>
+				<td>Zeno, deluso dal loro _Status Perfectus_, lascia gli Anarchici</td>
+			</tr>
+			<tr>
+				<td>1951</td>
+				<td>Viene stipulata la Tregua di Fresno tra Camarilla e Anarchici di San Francisco: attorno all'Elixir Pub di Duncan si forma l'enclave anarchico. Zeno ritorna nella Camarilla</td>
+			</tr>									
+			<tr>
 				<td>1952</td>
 				<td>Proclamazione della Repubblica Popolare di Polonia. Otto fugge negli USA</td>
 			</tr>
+			<tr>
+				<td>1953</td>
+				<td>Dwight Eisenhower è eletto presidente</td>
+			</tr>			
 			<tr>
 				<td>1954</td>
 				<td>Grace Kelly soffia ad Alice il ruolo da protagonista per "Il delitto perfetto", stroncandone di fatto la carriera</td>
