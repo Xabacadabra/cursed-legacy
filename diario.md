@@ -98,7 +98,7 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>1948</td>
-				<td>Zeno, deluso dal loro _Status Perfectus_, lascia gli Anarchici</td>
+				<td>Zeno, deluso dal loro <i>Status Perfectus</i>, lascia gli Anarchici</td>
 			</tr>
 			<tr>
 				<td>1951</td>
@@ -110,7 +110,7 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td>1953</td>
-				<td>Dwight Eisenhower è eletto presidente</td>
+				<td>Dwight Eisenhower è eletto trentaquattresimo Presidente degli Stati Uniti d'America.</td>
 			</tr>			
 			<tr>
 				<td>1954</td>
