@@ -12,5 +12,7 @@ nav-menu: true
 		<div class="4u"><a href="pg/naira"><span class="image fit"><img src="assets/images/naira.jpg" alt="" /></span><h3>Naira</h3></a></div>
 		<div class="4u"><a href="pg/diacono"><span class="image fit"><img src="assets/images/diacono.jpg" alt="" /></span><h3>Il Diacono</h3></a></div>
 		<div class="4u$"><a href="pg/bugsy"><span class="image fit"><img src="assets/images/bugsy.jpg" alt="" /></span><h3>Bugsy</h3></a></div>
+		<!-- Break -->
+		<div class="4u"><a href="pg/hortator"><span class="image fit"><img src="assets/images/hortator.jpg" alt="" /></span><h3>Hortator</h3></a></div>
 	</div>
 </div>
