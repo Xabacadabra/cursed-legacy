@@ -124,14 +124,14 @@ nav-menu: true
 	</table>
 </div>
 
-| Tables        |
-| ------------- |
-| [1956](#1956) |
-| [1957](#1957) |
-| [1958](#1958) |
-| [1959](#1959) |
-| [1960](#1960) |
-| [1961](#1961) |
+| Anni di Gioco |
+| ------------- |------------------------------------------------------|
+| [1956](#1956) | Paul, Robert, Alice, Otto e Maya vengono abbracciati.|
+| [1957](#1957) | Lancio dello Sputnik. Dwight Eisenhower inizia il suo secondo mandato. Alexandra Cavendish forma la Pacific Coast Stock Exchange. Maya guida una spedizione ad Hayden Lake. Alice partecipa al San Francisco Film Festival |
+| [1958](#1958) | Fondazione della NASA. Peter De Rosa viene affidato alle cure di Glory. | 
+| [1959](#1959) | Nelle fogne di San Francisco appaiono nuovi segni di "sacrifici rituali". Robert ottiene un dominio anarchico attorno a Lake Hughes, dove gestisce il bar di Balalaika.
+| [1960](#1960) | John F. Kennedy sfida e batte Richard Nixon nelle elezioni americane. Rivoluzione Cubana di Fidel Castro. Il clima della Guerra Fredda va sempre più inasprendosi.|
+| [1961](#1961) | Game in progress |
 
 ## 1956
 
