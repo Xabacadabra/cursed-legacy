@@ -130,7 +130,7 @@ nav-menu: true
 | [1956](#1956) | Paul, Robert, Alice, Otto e Maya vengono abbracciati.|
 | [1957](#1957) | In Unione Sovietica si festeggia il Lancio dello Sputnik: è ufficialmente iniziata la corsa spaziale. Dwight Eisenhower inizia il suo secondo mandato. La ventrue Alexandra Cavendish si reca in California, dove forma la Pacific Coast Stock Exchange. Maya guida la spedizione ad Hayden Lake. Alice partecipa al San Francisco Film Festival. |
 | [1958](#1958) | Fondazione della NASA. Peter De Rosa viene affidato alle cure di Glory. | 
-| [1959](#1959) | Nelle fogne di San Francisco appaiono nuovi segni di "sacrifici rituali", Maya e Paul indagano senza trovare nulla di nuovo: in Elysium pensano . Robert ottiene un dominio anarchico attorno a Lake Hughes, dove gestisce il bar di Balalaika.
+| [1959](#1959) | Nelle fogne di San Francisco appaiono nuovi segni di "sacrifici rituali", Maya e Paul indagano senza trovare nulla di nuovo: in Elysium pensano sia opera di Delfonso. Robert ottiene un dominio anarchico attorno a Lake Hughes, dove gestisce il bar di Balalaika.
 | [1960](#1960) | John F. Kennedy sfida e batte Richard Nixon nelle elezioni americane. Rivoluzione Cubana di Fidel Castro. Il clima della Guerra Fredda va sempre più inasprendosi.|
 | [1961](#1961) | Game in progress |
 
