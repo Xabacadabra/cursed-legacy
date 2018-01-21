@@ -124,13 +124,17 @@ nav-menu: true
 	</table>
 </div>
 
-- [1956](#1956)
-- [1957](#1957)
-- [1958](#1958)
-- [1959](#1960)
-- [1961](#1961)
+| Tables        |
+| ------------- |
+| [1956](#1956) |
+| [1957](#1957) |
+| [1958](#1958) |
+| [1959](#1959) |
+| [1960](#1960) |
+| [1961](#1961) |
 
-<h2>1956</h2>
+## 1956
+
 <dl>
 	<dt>3 Gennaio</dt>
 	<dd>
@@ -201,7 +205,8 @@ nav-menu: true
 	</dd>		
 </dl>
 
-<h2>1957</h2>
+## 1957
+
 <dl>
 	<dt>Gennaio</dt>
 	<dd>
@@ -233,7 +238,8 @@ nav-menu: true
 
 </dl>
 
-<h2>1958</h2>
+## 1958
+
 <dl>
 	<dt>Giugno</dt>
 	<dd>
@@ -258,7 +264,8 @@ nav-menu: true
 
 </dl>
 
-<h2>1959</h2>
+## 1959
+
 <dl>
 	<dt>Giugno</dt>
 	<dd>
@@ -276,7 +283,7 @@ nav-menu: true
 
 </dl>
 
-<h2>1960</h2>
+## 1960
 
 <span class="image fit"><img src="assets/images/timeline2.jpg" alt="" /></span>
 
@@ -290,7 +297,7 @@ nav-menu: true
 
 <a href="/cursed-legacy/diario/1960-12-31.html" class="button">31 Dicembre 1960</a>
 
-<h2>1961</h2>
+## 1961
 
 <a href="/cursed-legacy/diario/1961-1-1.html" class="button">1 Gennaio 1961</a>
 <a href="/cursed-legacy/diario/1961-1-2.html" class="button">2 Gennaio 1961</a>
