@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Diario
-description: Lorem ipsum dolor est
-image: assets/images/timeline.jpg
+description: Timeline
+image: assets/images/camarilla.jpg
 nav-menu: true
 ---
 
-<h4>Timeline</h4>
+<h2>Timeline</h2>
 <div class="table-wrapper">
 	<table>
 		<thead>
@@ -124,16 +124,19 @@ nav-menu: true
 	</table>
 </div>
 
-| Anni di Gioco |
+## Anni Di Gioco
+
 | ------------- |------------------------------------------------------|
 | [1956](#1956) | Paul, Robert, Alice, Otto e Maya vengono abbracciati.|
-| [1957](#1957) | Lancio dello Sputnik. Dwight Eisenhower inizia il suo secondo mandato. Alexandra Cavendish forma la Pacific Coast Stock Exchange. Maya guida una spedizione ad Hayden Lake. Alice partecipa al San Francisco Film Festival |
+| [1957](#1957) | In Unione Sovietica si festeggia il Lancio dello Sputnik: è ufficialmente iniziata la corsa spaziale. Dwight Eisenhower inizia il suo secondo mandato. La ventrue Alexandra Cavendish si reca in California, dove forma la Pacific Coast Stock Exchange. Maya guida la spedizione ad Hayden Lake. Alice partecipa al San Francisco Film Festival. |
 | [1958](#1958) | Fondazione della NASA. Peter De Rosa viene affidato alle cure di Glory. | 
-| [1959](#1959) | Nelle fogne di San Francisco appaiono nuovi segni di "sacrifici rituali". Robert ottiene un dominio anarchico attorno a Lake Hughes, dove gestisce il bar di Balalaika.
+| [1959](#1959) | Nelle fogne di San Francisco appaiono nuovi segni di "sacrifici rituali", Maya e Paul indagano senza trovare nulla di nuovo: in Elysium pensano . Robert ottiene un dominio anarchico attorno a Lake Hughes, dove gestisce il bar di Balalaika.
 | [1960](#1960) | John F. Kennedy sfida e batte Richard Nixon nelle elezioni americane. Rivoluzione Cubana di Fidel Castro. Il clima della Guerra Fredda va sempre più inasprendosi.|
 | [1961](#1961) | Game in progress |
 
 ## 1956
+
+<span class="image fit"><img src="assets/images/timeline.jpg" alt="" /></span>
 
 <dl>
 	<dt>3 Gennaio</dt>
