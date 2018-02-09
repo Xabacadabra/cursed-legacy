@@ -4,7 +4,7 @@ subtitle: "by Xab"
 email: youremailaddress@gmail.com
 description: "Una cronaca di Vampiri: La Masquerade"
 baseurl: "/cursed-legacy" # the subpath of your site, e.g. /blog
-url: "http://xabacadabra.com" # the base hostname & protocol for your site
+url: "https://www.xabacadabra.com" # the base hostname & protocol for your site
 author:
 street_address: 
 city: 
