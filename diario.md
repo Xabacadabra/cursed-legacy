@@ -310,3 +310,4 @@ nav-menu: true
 <a href="/cursed-legacy/diario/1961-1-6.html" class="button">6 Gennaio 1961</a>
 <a href="/cursed-legacy/diario/1961-1-7.html" class="button">7 Gennaio 1961</a>
 <a href="/cursed-legacy/diario/1961-1-8.html" class="button">8 Gennaio 1961</a>
+<a href="/cursed-legacy/diario/1961-1-9.html" class="button">9 Gennaio 1961</a>
