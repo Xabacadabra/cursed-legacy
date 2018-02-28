@@ -32,6 +32,7 @@ nav-menu: true
         <div class="4u"><a href="pg/gustavo"><span class="image fit"><img src="assets/images/gustavo.jpg" alt="" /></span><h3>Gustavo</h3></a></div>
         <div class="4u$"><a href="pg/vedova"><span class="image fit"><img src="assets/images/vedova.jpg" alt="" /></span><h3>La Vedova</h3></a></div>
         <!-- Break-->
-		<div class="4u"><a href="pg/lucinda"><span class="image fit"><img src="assets/images/lucinda.jpg" alt="" /></span><h3>Lucinda</h3></a></div>         
+		<div class="4u"><a href="pg/lucinda"><span class="image fit"><img src="assets/images/lucinda.jpg" alt="" /></span><h3>Lucinda</h3></a></div>
+		<div class="4u"><a href="pg/marcus"><span class="image fit"><img src="assets/images/marcus.jpg" alt="" /></span><h3>Marcus Vitel</h3></a></div>          
 	</div>
 </div>
