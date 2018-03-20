@@ -48,7 +48,7 @@ Nikolai suggerisce di evitare di cacciare, per non infastidire le bande di vampi
 
 Railsback raccomanda di presentarsi al Principe di Las Vegas (tale Jimmy Lanza).  
 
-Raccomandano di non fidarsi di nessuno, perché l'unica persona veramente fidata è lo sceriffo Montrose. La presenza del gruppo (specie di Robert) diventerà presto nota anche a Robert.  
+Raccomandano di non fidarsi di nessuno, perché l'unica persona veramente fidata è lo sceriffo Montrose. La presenza del gruppo (specie di Robert) diventerà presto nota anche a Rothstein.  
 
 Al gruppo si aggiunge anche Vibeke (vecchia conoscenza del gruppo, che ha fatto una figura barbina 5 anni prima).
 
