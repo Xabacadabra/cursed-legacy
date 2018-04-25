@@ -15,6 +15,8 @@ nav-menu: true
 		<!-- Break -->
 		<div class="4u"><a href="pg/hortator"><span class="image fit"><img src="assets/images/hortator.jpg" alt="" /></span><h3>Hortator</h3></a></div>
 		<div class="4u"><a href="pg/ranya"><span class="image fit"><img src="assets/images/ranya.jpg" alt="" /></span><h3>Ranya</h3></a></div>
-		<div class="4u$"><a href="pg/yoska"><span class="image fit"><img src="assets/images/yoska.jpg" alt="" /></span><h3>Yoska</h3></a></div>		
+		<div class="4u$"><a href="pg/yoska"><span class="image fit"><img src="assets/images/yoska.jpg" alt="" /></span><h3>Yoska</h3></a></div>	
+		<!-- Break -->
+		<div class="4u"><a href="pg/rashid"><span class="image fit"><img src="assets/images/rashid.jpg" alt="" /></span><h3>Rashid</h3></a></div>			
 	</div>
 </div>
