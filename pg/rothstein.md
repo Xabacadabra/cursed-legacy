@@ -6,7 +6,7 @@ image: assets/images/rothstein.jpg
 nav-menu: false
 ---
 
-Potente Giovanni di Las Vegas, a quanto sembra uno dei cainiti più potenti degli Stati Uniti Occidentali.
+Potente Giovanni di Las Vegas, a quanto sembra uno dei cainiti più influenti negli Stati Uniti Occidentali.
 
 Paranoico e calcolatore, la sua figura è avvolta dal mistero: non lascia mai i suoi domini, ma nonostante questo la sua mano riesce ad arrivare molto lontano grazie a diversi ghoul associati alla malavita, oltre che a infanti come il defunto Bugsy Siegel.
 
