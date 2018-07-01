@@ -16,12 +16,12 @@ Il Verdi Club di San Francisco era di sua proprietà e, a dimostrazione di quant
 
 Nel 1956 divenne ossessionato da Robert Morgan, l'assassino di Bugsy Siegel:
 
-Grazie allo status guadagnato con gli anarchici il gangrel è riuscì a scampare alla terribile vendetta di Rothstein, divenendo di fatto uno dei pochi punti deboli del Giovanni (arrivato ad attaccare direttamente la città di Fresno pur di ucciderlo), lasciando da parte la sua fantomatica prudenza:
+Grazie allo status guadagnato tra gli anarchici, il gangrel riuscì a scampare alla sete vendetta di Rothstein, divenendo di fatto uno dei pochi punti deboli del Giovanni (arrivato ad attaccare direttamente la città di Fresno pur di ucciderlo), che a causa sua si ritrovò a lasciare da parte la sua fantomatica prudenza:
 
-Proprio per questo, nel Gennaio del 1961 verrà ucciso dallo stesso Robert Morgan, accompagnato da un piccolo contingente della camarilla di San Francisco. 
+A causa di ciò, nel Gennaio del 1961 verrà ucciso dallo stesso Robert Morgan, accompagnato da un piccolo contingente della camarilla di San Francisco. 
 
 Era celebre per mantenere sempre la sua parola, sebbene generalmente questo implicasse qualche minaccia.
 
-Il suo quartier generale originale era il celebre casinò Flamingo, ma in generale, possedeva molti altri casinò e rifugi nella strip di Las Vegas.
+Il suo quartier generale era il celebre casinò Flamingo, ma in generale possedeva molti altri casinò e rifugi nella strip di Las Vegas.
 
 <a href="http://xabacadabra.com/cursed-legacy/png-indipendenti.html" class="button back">PNG Indipendenti</a>
