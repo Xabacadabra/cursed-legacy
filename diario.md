@@ -132,7 +132,7 @@ nav-menu: true
 | [1958](#1958) | Fondazione della NASA. Peter De Rosa viene affidato alle cure di Glory. | 
 | [1959](#1959) | Nelle fogne di San Francisco appaiono nuovi segni di "sacrifici rituali", Maya e Paul indagano senza trovare nulla di nuovo: in Elysium pensano sia opera di Delfonso. Robert ottiene un dominio anarchico attorno a Lake Hughes, dove gestisce il bar di Balalaika.
 | [1960](#1960) | John F. Kennedy sfida e batte Richard Nixon nelle elezioni americane. Rivoluzione Cubana di Fidel Castro. Il clima della Guerra Fredda va sempre più inasprendosi.|
-| [1961](#1961) | Game in progress |
+| [1961](#1961) | Thomas Rhodes viene abbracciato. Il vecchio gruppo del '56 si riunisce e sconfigge Rothstein. Vannevar rischia di perdere la carica di Principe, ma grazie al decisivo contributo di Alice, Thomas, Sebastian e Nash. |
 
 ## 1956
 
@@ -319,3 +319,44 @@ nav-menu: true
 <a href="/cursed-legacy/diario/1961-1-15.html" class="button">15 Gennaio 1961</a>
 <a href="/cursed-legacy/diario/1961-1-16.html" class="button">16 Gennaio 1961</a>
 <a href="/cursed-legacy/diario/1961-1-19.html" class="button">19 Gennaio 1961</a>
+<a href="/cursed-legacy/diario/1961-1-20.html" class="button">20 Gennaio 1961</a>
+<a href="/cursed-legacy/diario/1961-1-21.html" class="button">21 Gennaio 1961</a>
+
+<dl>
+	<dt>Febbraio</dt>
+	<dd>
+		<p>Robert riceve una telefonata da Jeremy MacNeil: Duncan non è mai arrivato a Los Angeles, e nessuno ha più avuto sue notizie da settimane. Robert organizza immediatamente un'investigazione guidata da uno spaventatissimo Tequila: se la Camarilla dovesse aver ucciso Duncan, la Tregua di Fresno salterebbe. Cercando informazioni nel vecchio ufficio del suo predecessore, Robert trova una foto di Margaret (che conobbe anni prima all'Elixir Pub) allegata ad un piccolissimo messaggio: "Vannevar"</p>
+		<p>Thomas si reca con Rashid a Montgomery, Alabama. Qui fa amicizia con Edgar Anderson, rivelando la sua vera identità: Theodore Roosevelt, figlio del presidente Franklin Delano Roosevelt, che Anderson ha già avuto occasione di incontrare anni prima. Per stringere un legame più forte con il Senatore, Thomas fa assumere a Rashid l'aspetto di Maya.</p>
+		<p>Nash porta alcuni Gangrel del branco Mooncreek in città, prendendo possesso del territorio Richmond, in precedenza appartenuto a Zeno: quest'ultimo viene nominato da Vannevar Primogeno Brujah e ottiene la contea di Fresno. Zeno accetta ma, dovendo lasciare ben presto la California, delega titolo e territorio al suo infante Paul, che occupa così il ruolo di sovrintendente dell'area per suo conto.</p>	
+		<p>A Liverpool, in Inghilterra, I Beatles suonano il loro primo concerto</p>
+	</dd>
+	<dt>Marzo</dt>
+	<dd>
+		<p>Honerius inserisce vari Tremere nella vicina città di San Jose: situata poco oltre il confine meridionale di San Francisco, l'area della futura Silicon Valley diventa a tutti gli effetti un avamposto del clan dei maghi, controparte meridionale della città di Sacramento nella California del nord sebbene formalmente parte dei domini della San Francisco di Vannevar.</p>
+		<p>Vacanza studio: Maya e Thomas imparano i rudimenti di Oscurazione (rispettivamente da Tequila e Rashid) mentre Alice apprende le basi di Dominazione da Sebastian</p>
+	</dd>
+	<dt>Maggio</dt>
+	<dd>
+		<p>il Governatore dell'Alabama John Patterson inasprisce la legge marziale per far fronte ai disordini generati dai manifestanti afroamericani supportati dal Senatore Anderson. Thomas si mantiene in contatto con quest'ultimo, supportandolo con le informazioni della CIA.</p>
+	</dd>		
+
+</dl>
+
+## 1963
+
+<dl>
+	<dt>Novembre</dt>
+	<dd>
+		<p>Il Presidente degli Stati Uniti John Fitzgerald Kennedy viene assassinato a Dallas, Texas.</p>
+	</dd>
+</dl>
+
+## 1964
+
+<dl>
+	<dt>Marzo</dt>
+	<dd>
+		<p>Mario Savio, studente dell'Università di Berkley, viene arrestato a San Francisco. Sono le prime avvisaglie della Freedom Summer e del Movimento Studentesco: giovani studenti manifestano a favore dei diritti degli afroamericani, contro i bombardamenti nel Vietnam (che anticipano l'intervento diretto USA che avverrà nel '65) e le condizioni lavorative sempre più precarie del ceto proletario.</p>
+		<p>Vannevar tenta di soffocare le manifestazioni sul nascere, in quanto teme siano eterodirette dagli Anarchici di Los Angeles: questo crea per la prima volta un conflitto con Riley, il suo ghoul più fidato.</p>
+	</dd>
+</dl>
