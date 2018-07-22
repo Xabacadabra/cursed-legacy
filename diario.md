@@ -132,7 +132,7 @@ nav-menu: true
 | [1958](#1958) | Fondazione della NASA. Peter De Rosa viene affidato alle cure di Glory. | 
 | [1959](#1959) | Nelle fogne di San Francisco appaiono nuovi segni di "sacrifici rituali", Maya e Paul indagano senza trovare nulla di nuovo: in Elysium pensano sia opera di Delfonso. Robert ottiene un dominio anarchico attorno a Lake Hughes, dove gestisce il bar di Balalaika.
 | [1960](#1960) | John F. Kennedy sfida e batte Richard Nixon nelle elezioni americane. Rivoluzione Cubana di Fidel Castro. Il clima della Guerra Fredda va sempre più inasprendosi.|
-| [1961](#1961) | Thomas Rhodes viene abbracciato. Il vecchio gruppo del '56 si riunisce e sconfigge Rothstein. Vannevar rischia di perdere la carica di Principe, ma grazie al decisivo contributo di Alice, Thomas, Sebastian e Nash. |
+| [1961](#1961) | Thomas Rhodes viene abbracciato. Il vecchio gruppo del '56 si riunisce e sconfigge Rothstein. Vannevar rischia di perdere la carica di Principe, ma grazie al decisivo contributo di Alice, Thomas, Sebastian e Nash resta al potere. |
 
 ## 1956
 
